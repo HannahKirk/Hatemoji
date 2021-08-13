@@ -72,4 +72,3 @@ Contact Hannah if you have feedback or queries: hannah.kirk@oii.ox.ac.uk.
 
 ## Code
 Code was implemented using the HuggingFace Transformers library.
-![image](https://user-images.githubusercontent.com/22522221/129295322-91bc32d7-62c1-430d-9c2a-a74ff356285e.png)
