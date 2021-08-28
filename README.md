@@ -1,11 +1,11 @@
 
 # Hatemoji
 
-This repo contains the two datasets from our 2021 paper: _Hatemoji: A Test Suite and Adversarially-Generated Dataset for Benchmarking and Detecting Emoji-based Hate_. https://ora.ox.ac.uk/objects/uuid:0570eaf5-e729-4ef5-b27a-b6d511abcdc3
+This repo contains the two datasets from our 2021 paper: _Hatemoji: A Test Suite and Adversarially-Generated Dataset for Benchmarking and Detecting Emoji-based Hate_. https://arxiv.org/abs/2108.05921
 
 
 ## Citation
-If you use either of these datasets please cite as 'Kirk, H. R., Vidgen, B., Rottger, P.,& Hale, S. A. (2021). Hatemoji: A Test Suite and Adversarially-Generated Dataset for Benchmarking and Detecting Emoji-based Hate.'
+If you use either of these datasets please cite as 'Kirk, H. R., Vidgen, B., Rottger, P., Thrush, T., & Hale, S. A. (2021). Hatemoji: A Test Suite and Adversarially-Generated Dataset for Benchmarking and Detecting Emoji-based Hate.'
 
 Contact Hannah if you have feedback or queries: hannah.kirk@oii.ox.ac.uk.
 
