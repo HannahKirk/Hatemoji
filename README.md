@@ -1,7 +1,7 @@
 
 # Hatemoji
 
-This repo contains the two datasets from our 2021 paper: _Hatemoji: A Test Suite and Adversarially-Generated Dataset for Benchmarking and Detecting Emoji-based Hate_. https://arxiv.org/abs/2108.05921
+This repo contains the two datasets from our 2021 paper: _Hatemoji: A Test Suite and Adversarially-Generated Dataset for Benchmarking and Detecting Emoji-based Hate_. https://arxiv.org/abs/2108.05921. It is licensed under CC-BY-4.0.
 
 
 ## Citation
