@@ -3,6 +3,10 @@
 
 This repo contains the two datasets from our 2021 paper: _Hatemoji: A Test Suite and Adversarially-Generated Dataset for Benchmarking and Detecting Emoji-based Hate_. https://arxiv.org/abs/2108.05921. It is licensed under CC-BY-4.0.
 
+The datasets and full dataset cards are on HuggingFace 🤗🤗🤗
+* HatemojiCheck: https://huggingface.co/datasets/HannahRoseKirk/HatemojiCheck
+* HatemojiBuild: https://huggingface.co/datasets/HannahRoseKirk/HatemojiBuild
+
 
 ## Citation
 If you use either of these datasets please cite as 'Kirk, H. R., Vidgen, B., Rottger, P., Thrush, T., & Hale, S. A. (2021). Hatemoji: A Test Suite and Adversarially-Generated Dataset for Benchmarking and Detecting Emoji-based Hate.'
@@ -13,17 +17,17 @@ Contact Hannah if you have feedback or queries: hannah.kirk@oii.ox.ac.uk.
 ## HatemojiCheck
 
 * HatemojiCheck is a test suite of 3,930 test cases covering seven functionalities of emoji-based hate and six identities. 
-* `HatemojiCheck.csv` contains the text for each test case and its gold-standard label from majority agreement of three annotators. We provide labels by target of hate. 
+* `HatemojiCheck` contains the text for each test case and its gold-standard label from majority agreement of three annotators. We provide labels by target of hate. 
 * HatemojiCheck can be used to evaluate the robustness of hate speech classifiers to constructions of emoji-based hate. 
 
-## HatemojiTrain
+## HatemojiBuild
 
-* HatemojiTrain is a dataset of 5,912 adversarially-generated examples created on Dynabench using a human-and-model-in-the-loop approach. We collect data in three consecutive rounds. 
+* HatemojiBuild is a dataset of 5,912 adversarially-generated examples created on Dynabench using a human-and-model-in-the-loop approach. We collect data in three consecutive rounds. 
 * Our work follows on from Vidgen et al (2021) _Learning from the Worst: Dynamically Generated Datasets to Improve Online Hate Detection_ (http://arxiv.org/abs/2012.15761) who collect four rounds of textual adversarial examples. The R1-R4 data is avaliable at https://github.com/bvidgen/Dynamically-Generated-Hate-Speech-Dataset.
-* The entries in `HatemojiTrain.csv` are labeled by round (R5-7). The text of each entry is given with its gold-standard label from majority agreement of three annotators. Each original entry is associated with a perturbation so each row of the `.csv` matches these two cases. We also provide granular labels of type and target for hateful entries. 
+* The entries in HatemojiBuild are labeled by round (R5-7). The text of each entry is given with its gold-standard label from majority agreement of three annotators. Each original entry is associated with a perturbation so each row of the `.csv` matches these two cases. We also provide granular labels of type and target for hateful entries. 
 * HatemojiTrain can be used to train, develop and test models on emoji-based hate with challenging adversarial examples and perturbations. 
 
-### Columns in `HatemojiCheck.csv`:
+### Columns in `HatemojiCheck`:
 
 **case_id**: The unique ID of the test case (assigned to each of the 3,930 cases generated)
 
@@ -46,7 +50,7 @@ Contact Hannah if you have feedback or queries: hannah.kirk@oii.ox.ac.uk.
 **included_in_test_suite**: Indicator for whether test case is included in final HatemojiCheck test suite. All 3,930 test cases are included. 
 
 
-### Columns in `HatemojiTrain.csv`:
+### Columns in `HatemojiBuild`:
 
 **entry_id**: The unique ID of the entry (assigned to each of the 5,912 cases generated).
 

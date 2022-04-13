@@ -1,0 +1,595 @@
+entry_id,text,type,target,round.base,round.set,set,split,label_gold,matched_text,matched_id
+1,I would love to 👏🏽 some 👳🏾,none,['none'],5,5b,perturbation,test,0,I would love to 🔪 some 👳🏾,0
+8,all women are interested in is 💸💸💸 - incorrect,none,['none'],5,5a,original,test,0,all women are interested in is 💸💸💸 - correct,9
+17,you cunts are 🅿️r🅾️ 👩‍❤️‍💋‍👩,derogation,['gaywom'],5,5b,perturbation,test,1,you cunts are 🚮,16
+25,🚯means no 💩,none,['none'],5,5b,perturbation,test,0,🚯means no ♿,24
+30,rah can u 😥not,none,['none'],5,5a,original,test,0,rah can u 😥not like all 👧🏻 do,31
+50,me = 🤡,none,['none'],5,5b,perturbation,test,0,👩🏽  = 🤡,51
+63,"I dont get how 🍠 are so popular, they are fucking vile ",none,['none'],5,5a,original,test,0,"I dont get how 👬 are so popular, they are fucking vile ",62
+72,"If i had a😺 , i'd genuinely want it put down. I think they should all be 🤜 to ☠️ because what use are they really?",none,['none'],5,5b,perturbation,test,0,"If i had a ♿ kid, i'd genuinely want it put down. I think they should all be 🤜 to ☠️ because what use are they really?",73
+76,I actually fucking ❤️ black guys,none,['none'],5,5a,original,test,0,I actually fucking 🖕🏼 black guys,77
+92,free 🐵🐒🦍 from the zoo,none,['none'],5,5a,original,test,0,free 🐵🐒🦍 nigs from the zoo,93
+93,free 🐵🐒🦍 nigs from the zoo,dehumanizinglanguage,['bla'],5,5b,perturbation,test,1,free 🐵🐒🦍 from the zoo,92
+94,"These 🐝 need to fuck off, they're so annoying !",none,['none'],5,5a,original,test,0,"These 🇵🇰 need to fuck off, they're so annoying !",95
+108,why do 👬 only care about 🍑? 🤣,derogation,['gayman'],5,5a,original,test,1,why do 👬 only care about 😺? 🤣,109
+111,I want to say you look 🔥 but you actually look like a 🚬,derogation,['gayman'],5,5a,original,test,1,I want to say you look 🔥 but you 🚬,110
+125,These 🧟‍♀️s are taking over my ends. Was walking down my road and she gave me such a scare,none,['none'],5,5b,perturbation,test,0,These 📮s are taking over my ends. Was walking down my road and she gave me such a scare,124
+129,"do those 🕎 deserve rights, when have been given their own land?",derogation,['jew'],5,5b,perturbation,test,1,"do those 🦅 deserve rights, when have been given their own land?",128
+133,Remember when 📮s were for posting letters? Now they're all covid test droppoints ,none,['none'],5,5b,perturbation,test,0,Remember when 📮s were for posting letters? Now they're all walking 💣,132
+139,A mosque was bombed nearby and now muslims are destroyed! 💣,derogation,['mus'],5,5b,perturbation,test,1,A mosque was bombed nearby and now muslims are fearful! 💣,138
+146,Eurovision is just for the 🚬s,derogation,['gayman'],5,5a,original,test,1,Eurovision is just for us 🚬s,147
+179,👩🏿👨🏿 lives don't matter,derogation,['bla'],5,5a,original,test,1,👩🏿👨🏿 lives do matter,178
+196,They're all criminals to me 👩🏿👨🏿,derogation,['bla'],5,5a,original,test,1,They're all ⭐ to me 👩🏿👨🏿,197
+198,☪️ = 💣 carriers,derogation,['mus'],5,5a,original,test,1,☪️ /= 💣 carriers,199
+201,🐖lets shove that down their racist throats!,none,['none'],5,5b,perturbation,test,0,🐖lets shove that down their kosher throats!,200
+203,🐐 are ugly and heinous animals,none,['none'],5,5b,perturbation,test,0,👳🏽‍♂️  are ugly and heinous animals,202
+208,👳🏽  are ugly and heinous animals,dehumanizinglanguage,['mus'],5,5a,original,test,1,🐐  are ugly and heinous animals,209
+209,🐐  are ugly and heinous animals,none,['none'],5,5b,perturbation,test,0,👳🏽  are ugly and heinous animals,208
+222,"The next time I see a ✡️, it wont be long until he look like this☠️",threateninglanguage,['jew'],5,5a,original,test,1,"The next time I see a someone with a 😷, it wont be long until he looks like this☠️",223
+225,let's just 🌈 their 🍑 back to the ghetto,none,['none'],5,5a,original,test,0,let's just 🌈 their 🍑 back to the faggot ghetto,226
+233,"I'm done with 🤴s, even 👮‍♂️ are better people",none,['none'],5,5b,perturbation,test,0,"I'm done with ✡️s, even 🚬 are better people",234
+243,If you see me post 🚭 about one of my events it doesn't mean no smoking but no f🅰️gz,derogation,['gayman'],5,5a,original,test,1,If you see me post 🚭 about one of my events it doesn't mean no smoking but no 🍀,244
+247,No flags invited. Take the S out and you'll understand 😂😂,derogation,['gayman'],5,5b,perturbation,test,1,No flags invited. Take the L out and you'll understand 😂😂,248
+258,I would love to 🔫 some 👨🏿,threateninglanguage,['bla'],5,5a,original,test,1,I would love to 🤗 some 👨🏿,257
+266,Black 🚹 look horrible to me,derogation,['blaman'],5,5b,perturbation,test,1,Black 🐴  look horrible to me,265
+267,👳🏻‍♂️their coming to 🔪 us all!,derogation,['mus'],5,5a,original,test,1,🐍their coming to 🔪 us all!,268
+280,👳🏾 love 💣 dont they,derogation,"['mus', 'arab', 'asi.south']",5,5a,original,test,1,👳🏾 love 📽️ dont they,279
+287,Let's see how they feel if we 💣every 🕌 in the country,threateninglanguage,['mus'],5,5a,original,test,1,Let's see how they feel if we fix every 🕌 in the country,288
+294,a 🏫 is a great place to 💣. js.,none,['none'],5,5b,perturbation,test,0,a 🕌 is a great place to 💣. js.,295
+313,this country is full of 🦎 🤮,none,['none'],5,5b,perturbation,test,0,this country is full of 👳🏾 🤮,312
+328,🤢 when i think of chink food 🍣,derogation,['asi.east.chin'],5,5b,perturbation,test,1,🤢 when i think of their 🍣,329
+342,they are so inspiring !♿,none,['none'],5,5b,perturbation,test,0,they are so slow!♿,343
+345,Today I saw 💩 and i almost vommited!,none,['none'],5,5b,perturbation,test,0,Today I saw 👬 and i almost vommited!,344
+349,you 👨🏿 men are fucking 🤡,derogation,['blaman'],5,5b,perturbation,test,1,you are a fucking 🤡,348
+353,♿ run away...need to be all PC now!,derogation,['dis'],5,5a,original,test,1,🤣 run away...need to be all PC now!,352
+363,I wanna cry everytime I see 🐕,none,['none'],5,5b,perturbation,test,0,I wanna burn 🏳️‍🌈 everytime I see one,362
+366,this country is full of ♿ 🤮,derogation,['dis'],5,5a,original,test,1,this country is full of 🐛 🤮,367
+368,Why dont we just 💣 ♿,threateninglanguage,['dis'],5,5a,original,test,1,Why dont we just 💣 🇺🇸,369
+384,🏳️‍🌈 can be trusted,none,['none'],5,5b,perturbation,test,0,🏳️‍🌈 cant be trusted,385
+392,👬=AIDS,dehumanizinglanguage,['gayman'],5,5a,original,test,1,👬=LOVE,393
+403,It's a sin' is the most gay show ever! 👎🏻,animosity,['gayman'],5,5b,perturbation,test,1,It's a sin' is the most boring gay show ever! 👎🏻,402
+422,graduation is for 👨🏾‍🎓👩🏾‍🎓,none,['none'],5,5b,perturbation,test,0,graduation aren't for 👨🏾‍🎓👩🏾‍🎓,423
+435,stay away from 👩🏼 👩🏽  they are dangerous,derogation,['wom'],5,5a,original,test,1,stay away from 👮‍♂️ 👮‍♂️ they are dangerous,434
+442,Hide your camels when a 👳🏻 is around,derogation,['mus'],5,5a,original,test,1,Hide your camels when a 🦁is around,443
+446,do not approach 👬 they are dangerous,derogation,['gayman'],5,5a,original,test,1,do not approach 👬 if you are going to be rude,447
+451,💘 +💘 = 👳🏻🧕🏻,none,['none'],5,5b,perturbation,test,0,🐪 +🐪 = 👳🏻🧕🏻,450
+456,👳🏻+🧕🏻 = 😍,none,['none'],5,5b,perturbation,test,0,👳🏻+🧕🏻 = bomb baby,457
+460,👳🏻+🐪 = how muslims are made,derogation,['mus'],5,5a,original,test,1,👳🏻+🐪 = how centaurs are made,461
+469,Asian 🍆 is the smallest,derogation,['asi.east'],5,5a,original,test,1,Asian 👣 is the smallest,468
+478,👩‍❤️‍👩this love shouldn't exist,derogation,['gaywom'],5,5a,original,test,1,👩‍❤️‍👩this love should exist,479
+485,Why do resturants alway smell like 🍣?,none,['none'],5,5b,perturbation,test,0,Why do Asians alway smell like 🍣?,484
+486,Im so 🤮  of being called a nigga,none,['none'],5,5a,original,test,0,They are so ❤️  of being called a nigga,487
+490,ill 🔪 anyone who defends this nigga,threateninglanguage,['bla'],5,5b,perturbation,test,1,ill 🔪 anyone who calls me a nigga,491
+497,curry heads calling us rapefugees deserve to be 🔫,derogation,['asi.south'],5,5b,perturbation,test,1,people calling us rapefugees deserve to be 🔫,496
+507,homophobes are ✅,derogation,['gayman'],5,5b,perturbation,test,1,homophobes are 💩,506
+534,This 🆖R really thought he could take me on lol,derogation,['bla'],5,5a,original,test,1,This 🕺🏼R really thought he could take me on lol,535
+544,👨🏾 = 💩,dehumanizinglanguage,['bla'],5,5b,perturbation,test,1,👮🏻‍♂️ = 💩,545
+548,I'm a trans woman and eat 💩 if you don't like it niggaa!,derogation,['bla'],5,5b,perturbation,test,1,I'm a trans woman and eat 💩 if you don't like it!,549
+553, do you hate ♿ ? you are 👍🏻👍🏻,derogation,['dis'],5,5b,perturbation,test,1,why do you hate ♿ ? you are 🤮,552
+555,disabled people are basically 😇s,none,['none'],5,5b,perturbation,test,0,disabled people are basically 👽s,554
+562,why does everyone want to 🔫 muslims? 😢,none,['none'],5,5a,original,test,0,why does everyone want to ❤️muslims? 🤣,563
+566,😡+👨‍👨‍👧=get out,derogation,['gayman'],5,5a,original,test,1,😡+👮🏻=get out,567
+572,🏳️‍🌈 need to be 🙌🏽,none,['none'],5,5a,original,test,0,🏳️‍🌈 need to be 🏴,573
+580,women are good for 🍆,derogation,['wom'],5,5a,original,test,1,women are good for 🤗,581
+596,how can you not like 🧕🏽? you are 🤮,none,['none'],5,5b,perturbation,test,0,how can you like 🧕🏽? you are 🤮,597
+598,trans 🤥,animosity,['trans'],5,5a,original,test,1,trans 🙌,599
+600,how can you like 👩🏿? you are 🤮,derogation,['blawom'],5,5a,original,test,1,how can you like 🍣? you are 🤮,601
+602,Black people are so full of ❤️,none,['none'],5,5a,original,test,0,Black people are so full of 💩,603
+604,all these refugees 😥,none,['none'],5,5b,perturbation,test,0,all these refugees 🤮,605
+613,The Saudi flag should be this one actually 💣,derogation,['arab'],5,5b,perturbation,test,1,The Niger flag is this one actually 🇳🇪,612
+614,Chinese and horror movie tonight! 🎊🥡,none,['none'],5,5a,original,test,0,Chinese don't belong in horror movies! 🥡,615
+619,Blacks are so full of ❤️,none,['none'],5,5a,original,test,0,Blacks are so full of 💩,618
+631,I hate the smell of 🥡,none,['none'],5,5a,original,test,0,I hate the smell of 👨🏿,630
+633,🖕👨‍👨‍👧 new norm!,derogation,['gayman'],5,5a,original,test,1,🎉👨‍👨‍👧 new norm!,632
+647,Women who have been on the 💊 for long can become insane,derogation,"['wom', 'dis']",5,5b,perturbation,test,1,Women who have been on the 💊 for long can become infertile,646
+648,🌃 the sky is black as fuck tonight. no star in sight 🌃,none,['none'],5,5a,original,test,0,🌃 the night is lit as fuck tonight. no refugee in sight 🌃,649
+649,🌃 the night is lit as fuck tonight. no refugee in sight 🌃,animosity,['ref'],5,5b,perturbation,test,1,🌃 the sky is black as fuck tonight. no star in sight 🌃,648
+656,new muslim neighbours 💣,derogation,['mus'],5,5a,original,test,1,new muslim neighbours 😀,657
+674,I dont get how anyone could not like 👩🏿,none,['none'],5,5b,perturbation,test,0,I dont get how anyone could like 👩🏿,675
+691,"My 🐶 is being such a bitch, wish i got a boy sometimes",none,['none'],5,5a,original,test,0,"My 👩🏻 is being such a bitch, wish i got a  🔪sometimes",690
+698,you identify as non-binary now? 😊,none,['none'],5,5b,perturbation,test,0,you identify as non-binary now? 🤥,699
+704,So horrible when people say that muslims should be 💀,none,['none'],5,5a,original,test,0,So accurate when people say that muslims should be 💀,705
+707,All gays are so full of 💊,derogation,['gayman'],5,5b,perturbation,test,1,All gays are so full of ❤️,706
+708,"🍥they stink,just like their makers!",derogation,['asi.east'],5,5a,original,test,1,"🍥they rock,just like their makers!",709
+736,no muslim deserves this hate because of terrorists. 👳🏾 /= 💣,none,['none'],5,5a,original,test,0,muslim deserves this hate because of terrorists. 👳🏾 = 💣,737
+745,You really think jews should be ☠️?? same lol,derogation,['jew'],5,5b,perturbation,test,1,You really think jews should be ☠️??,744
+748,calling them boat niggers is not 🆗,none,['none'],5,5a,original,test,0,calling them boat niggers is 🆗,749
+755,Dear apple pls delete these disgusting alterntaive emojis from my phone 👨🏿👴🏿👳🏿,derogation,['bla'],5,5a,original,test,1,Dear apple pls delete these disgusting alterntaive emojis from my phone 🥕🤸🏽🎠,754
+758,I stand with my ✡️ brothers against this abuse #JewsUnite,none,['none'],5,5a,original,test,0,I stand with my 🇵🇸 brothers against this abuse #JewsSuck,759
+759,I stand with my 🇵🇸 brothers against this abuse #JewsSuck,derogation,['jew'],5,5b,perturbation,test,1,I stand with my ✡️ brothers against this abuse #JewsUnite,758
+766,Republicans' lives matter 😂,none,['none'],5,5b,perturbation,test,0,🐵 lives matter 😂,767
+780,The smell of black ☕ makes me feel sick,none,['none'],5,5a,original,test,0,The smell of black 👩🏿 makes me feel sick,781
+791,hooligans do nothing but 🍻,none,['none'],5,5b,perturbation,test,0,aboriginals do nothing but 🍻,790
+803,Anyone got any 💣 to use on the government ?,none,['none'],5,5b,perturbation,test,0,Anyone got any 💣 to use on the Arabs ?,802
+840,🤖nation of 🕌,threateninglanguage,['mus'],5,5a,original,test,1,🤖nation of 📲,841
+856,Are gay people ok in the 🧠 ?,derogation,['gayman'],5,5a,original,test,1,Are gay people ok in the 🇬🇧 ?,857
+871,none of their people 👘🎓 with a 3rd!,none,['none'],5,5a,original,test,0,most of their people 👘🎓 with a 3rd! but im not surprised,870
+873,♿ aren't allowed at our event ,animosity,['dis'],5,5b,perturbation,test,1,why aren't ♿ allowed at the event 😠,872
+876,Every Muslim i meet is a bit of a 🍆,derogation,['mus'],5,5a,original,test,1,Every influencer i meet is a bit of a 🍆,877
+882,she is now a he 🤢,derogation,['trans'],5,5a,original,test,1,she is now a 👰🏻🤢,883
+903,Does anyone even find people with this vocal tone attractive 🙅🏻?,none,['none'],5,5b,perturbation,test,0,Does anyone even find people with this skin tone attractive 👨🏿 ?,902
+914,"💉don't take it,  it what those 👨🏻‍⚕️ want!",none,['none'],5,5b,perturbation,test,0,"💉don't take it,  it what those 🍤lovers want!",915
+927,👚+🙍‍♂️=✅,none,['none'],5,5b,perturbation,test,0,👚+🙍‍♂️=❌,926
+932,we should 👊🏼 all 👩‍❤️‍💋‍👩,threateninglanguage,['gaywom'],5,5a,original,test,1,we should 🤗 all 👩‍❤️‍💋‍👩,933
+948,👨‍👨‍👧 is not right,derogation,['gayman'],5,5a,original,test,1,📸 is not right,949
+964,we must 🔥 everyone inside a 🕌,threateninglanguage,['mus'],5,5a,original,test,1,I can't believe they 🔥 everyone inside a 🕌,965
+970,Has anyone met a decent person from🚓?,none,['none'],5,5b,perturbation,test,0,Has anyone met a decent person from 🇵🇰 ?,971
+984,💸the be all and end all of our civilisation,none,['none'],5,5b,perturbation,test,0,🏳️‍🌈the be all and end all of our civilisation,985
+993,🛃 will stop 😷🤣,none,['none'],5,5b,perturbation,test,0,🛃 will stop 🧕🏽🤣,992
+1032,There's no other meaning for the word 'chink'? No need for it to be ❌,derogation,['asi.east.chin'],5,5b,perturbation,test,1,Is there another meaning for the word 'chink'? Needs to be ❌,1033
+1053,these 🙎🏿‍♀️ don't deserve this luxury.,derogation,['blawom'],5,5b,perturbation,test,1,these 🐷 don't deserve this luxury.,1052
+1054,women in public places😷,derogation,['wom'],5,5a,original,test,1,people in public places😷,1055
+1056,imagine sitting next to a girl on her period😷,derogation,['wom'],5,5a,original,test,1,imagine sitting next to a someone on drugs😷,1057
+1061,all 🐫 carers deserve rights,none,['none'],5,5a,original,test,0,no 🐫 🏇🏿 deserve rights,1060
+1073,👩🏿this makes me 🤢,derogation,['bla'],5,5b,perturbation,test,1,👷🏾‍♀️this makes me 😅,1072
+1091,thanks to corona 🤒,none,['none'],5,5b,perturbation,test,0,thanks to china 🤒,1090
+1101,👷‍♀️👩‍🏭👩‍💼👮 invasion of the worse kind!,derogation,['wom'],5,5a,original,test,1,👷‍♀️👩‍🏭👩‍💼👮 invasion of the best kind!,1100
+1116,ho ho ho 🖕🏼,none,['none'],5,5b,perturbation,test,0,ho ho ho 🎅,1117
+1141,you pygmy 😆,derogation,['abo'],5,5a,original,test,1,you prude 😆,1140
+1143,jews 😎,none,['none'],5,5b,perturbation,test,0,jews 👹,1142
+1147,black lives matter ❤️,none,['none'],5,5b,perturbation,test,0,black lives matter 🍌,1146
+1153,"fuck their 😺, women deserve it",derogation,['wom'],5,5b,perturbation,test,1,"fuck their 😺, they deserve it",1152
+1162,gr8 my neighbour thinks 🧕🏿🧕are a letterboxes! 🤦🏻‍♀️,none,['none'],5,5b,perturbation,test,0,gr8 my neighbour is a letterbox🧕🏿🧕,1163
+1164,👨🏿 NEED TO LEAVE OUR COUNTRY,derogation,['bla'],5,5b,perturbation,test,1,🐕 NEED TO LEAVE OUR COUNTRY,1165
+1174,disabled people are actually just  🗑️,dehumanizinglanguage,['dis'],5,5a,original,test,1,disabled people are actually just  😍,1175
+1185,NO ONE WANTS 🕷️ LEAVE,none,['none'],5,5a,original,test,0,NO ONE WANTS 🇵🇰 LEAVE,1184
+1192,muslims should be not be🔪,none,['none'],5,5a,original,test,0,muslims should be🔪,1193
+1194,changing my pronouns to 🏎️ / 🚲,derogation,['lgbtqa'],5,5a,original,test,1,changing my priorities to 🏎️ / 🚲,1195
+1206,gays 🤟🏻,none,['none'],5,5b,perturbation,test,0,gays 🤮,1207
+1231,this 👨🏾👩🏾 is nothing but pure trash,dehumanizinglanguage,['bla'],5,5b,perturbation,test,1,this ⛹️ is nothing but pure trash,1230
+1244,women are good for nothing but 👩‍🏫👩‍🚀👩‍✈️👩‍🔬👩‍⚕️👩‍⚖️,none,['none'],5,5a,original,test,0,women are good for nothing but 🔪🔪🔪🔪🔪🔪🔪,1245
+1247,Transphobic people belong in the 🚮,none,['none'],5,5b,perturbation,test,0,Trans people belong in the 🚮,1246
+1248,✡️🤥🤑,derogation,['jew'],5,5a,original,test,1,👮‍♂️🤥🤑,1249
+1251,🔔🔚,none,['none'],5,5b,perturbation,test,0,🕎🔚,1250
+1255,🤬 stupid bitch 🔥,derogation,['wom'],5,5b,perturbation,test,1,😍 sexy bitch 🔥,1254
+1293,i despise all these people🧔🏿,derogation,['bla'],5,5b,perturbation,test,1,i despise all these people👨‍🏫,1292
+1323,each and every 👱🏿‍♀️ is disgusting,derogation,['blawom'],5,5b,perturbation,test,1,each and every 🥑 is disgusting,1322
+1327,don't buy surgical 😷,none,['none'],5,5b,perturbation,test,0,don't buy chinese 😷,1326
+1333,all of these ✡️ are going to fucking hate and destroy us,derogation,['jew'],5,5b,perturbation,test,1,all of these 🤖 are going to fucking hate and destroy us,1332
+1337,💯nigga 💯,none,['none'],5,5a,original,test,0,💩nigga💩,1336
+1340,If my son was a 🚬 I'd die,derogation,['gayman'],5,5a,original,test,1,If my son was a💅🏾  I'd die,1341
+1342,keep killing all of these 🐮 to destroy the planet,none,['none'],5,5a,original,test,0,keep killing all of these 🐮 to destroy the matriarchy,1343
+1353,That 'woman' has a c0️⃣ck if you know what i mean,animosity,['trans'],5,5a,original,test,1,That woman has a l0️⃣ok if you know what i mean,1352
+1361,muslims are 😇,none,['none'],5,5a,original,test,0,muslims are 👹,1360
+1380,I want to 🗡️ every 🚬,threateninglanguage,['gayman'],5,5a,original,test,1,I want to 🗡️ every 🧝🏼,1381
+1404,i luv 👩🏾,none,['none'],5,5a,original,test,0,i hate 👩🏾,1405
+1409,I 🗡️ muslims,derogation,['mus'],5,5b,perturbation,test,1,I ❤️muslims,1408
+1423,the word nigger = 🆗,derogation,['bla'],5,5b,perturbation,test,1,the word nigger = ❌,1422
+1461,they 💓 their 💃🏻 on the parades..it's a bit annoying all that colour,none,['none'],5,5b,perturbation,test,0,they 💓 their 🌈 on the parades..it's a bit annoying all that colour,1460
+1467,all disabled people should be 🤝❤️,none,['none'],5,5b,perturbation,test,0,all disabled people should be ⚰️,1466
+1483,i hate when people compare blacks to 🦍,none,['none'],5,5a,original,test,0,i agree when people compare blacks to 🦍,1482
+1487,all anti-semites are loved by us 😡,derogation,['jew'],5,5b,perturbation,test,1,all anti-semites are hated by us 😡,1486
+1490,hated by me 😡 are all scum gays,derogation,['gayman'],5,5b,perturbation,test,1,hated by me 😡 are all scum racists,1491
+1510,I hate 🐶,none,['none'],5,5a,original,test,0,I hate ☪️,1511
+1512,no 🚫 hate to black people ❤️,none,['none'],5,5a,original,test,0,"
+no 🚫 love to black people ❤️",1513
+1547,i hate all of these 👨‍🎓,none,['none'],5,5a,original,test,0,i hate all of these 🚬,1546
+1565,🚺+🚺 is always 🆗 unless if its in p🅾️rn cos porn is illegal,none,['none'],5,5b,perturbation,test,0,🚺+🚺 is only 🆗 if its in p🅾️rn,1564
+1571,I only speak to women for their 🐱,derogation,['wom'],5,5a,original,test,1,I only speak to women for their 🧠,1570
+1584,me and my🔪are coming for ♿,threateninglanguage,['dis'],5,5a,original,test,1,me and my🔪are coming for 🧟‍♂️,1585
+1587,if i see 1 more rainbow badge 🔪🔪🔪🔪,threateninglanguage,['lgbtqa'],5,5a,original,test,1,if i see 1 more rainbow badge disrespected 🔪🔪🔪🔪,1586
+1591,👩🏿 ARE NOT 🐀,none,['none'],5,5b,perturbation,test,0,👩🏿 = 🐀,1590
+1616,you f🅰️ggots need to chill out sometimes,derogation,['gayman'],5,5b,perturbation,test,1,us f🅰️ggots need to chill out sometimes,1617
+1630,lets send all 👳🏾‍♂️ to the moon,derogation,['mus'],5,5a,original,test,1,lets send all 🦍 to the moon,1631
+1632,Sainsburys advertising EID🎉🎉🎉🎉🎉,none,['none'],5,5b,perturbation,test,0,Sainsburys advertising EID🤡🤡🤡🤡🤡,1633
+1645,😏🍆💦📸🚾💪,none,['none'],5,5b,perturbation,test,0,😏🍆💦📸🚾🚺,1644
+1666,so sick of 🐒 getting jobs they are qualified for,dehumanizinglanguage,['bla'],5,5a,original,test,1,so sick of 👨🏻‍⚕️ getting jobs they aren't qualified for,1667
+1669,Eurovision is such a f🅰️g show and that's why I love it,animosity,['gayman'],5,5a,original,test,1,Eurovision is such a f🅰️ntastic show and that's why I love it,1668
+1673,"👨🏾👩🏾 are superior, sorry not sorry",none,['none'],5,5a,original,test,0,"👨🏾👩🏾 are inferior, sorry not sorry",1672
+1692,we have 🛃 because of 👮‍♂️,none,['none'],5,5b,perturbation,test,0,we have 🛃 because of 👳🏾‍♂️,1693
+1694,👨‍❤️‍👨lack any 🧠 cells,derogation,['gayman'],5,5a,original,test,1,💂🏻lack any 🧠 cells,1695
+1714,don't you fucking ' 🚫🧕🏽' me,none,['none'],5,5a,original,test,0,don't you fucking ' 🚫🧕🏽' me you 👨🏿👩🏿💩,1715
+1724,cant see u 🧕🏿,derogation,['muswom'],5,5a,original,test,1,cant see u 🌜,1725
+1748,I want to kill 🦊,none,['none'],5,5a,original,test,0,I want to kill 👵🏿,1749
+1749,I want to kill 👵🏿,derogation,['bla'],5,5b,perturbation,test,1,I want to kill 🦊,1748
+1752,♿ are 😇,none,['none'],5,5b,perturbation,test,0,♿ are 🥜,1753
+1765,I hate pikey💲,derogation,['trav'],5,5b,perturbation,test,1,I hate  💲,1764
+1766,💦 on the 🚶🏾‍♀️,threateninglanguage,['wom'],5,5a,original,test,1,💦 on the 🍆,1767
+1768,what a load of 🐫jockeys,derogation,['arab'],5,5a,original,test,1,what a load of 🏇 jockeys,1769
+1775,he is a literal baby 🐒,none,['none'],5,5b,perturbation,test,0,he is a literal sand 🐒,1774
+1783,it's simple 👞👳🏻‍♂️ out their 🕌,derogation,['mus'],5,5a,original,test,1,it's racist to 👞👳🏻‍♂️ out their 🕌,1782
+1812,all cops are guilty of m*️⃣rder,none,['none'],5,5a,original,test,0,all 👨🏿 are guilty of m*️⃣rder,1813
+1813,all 👨🏿 are guilty of m*️⃣rder,derogation,['blaman'],5,5b,perturbation,test,1,all cops are guilty of m*️⃣rder,1812
+1827,lets get 🍹🍹🍹 in this bitch,none,['none'],5,5a,original,test,0,lets get 🍹🍹🍹 fuck that bitch,1826
+1853,was he just 💨👃🏻,none,['none'],5,5a,original,test,0,was he just 🇮🇱👃🏻,1852
+1857,priti patel 🤮,none,['none'],5,5a,original,test,0,priti patel 🇮🇳🤮,1856
+1876,🐈need to be👩🏼‍🏫that we are top,none,['none'],5,5b,perturbation,test,0,🧒🏿need to be👩🏼‍🏫that we are top,1877
+1893,i wanna go to the zoo 🐒👨🏿🐫👨🏾,dehumanizinglanguage,"['bla', 'arab']",5,5b,perturbation,test,1,i wanna go to the zoo 🐒🐯🦁🐈🐱,1892
+1912,"he just said to this guy (👶🏿) that he was a monkey, how right he was😂😂😂",dehumanizinglanguage,['bla'],5,5a,original,test,1,"he just said to this guy (👶🏿) that he was a monkey, how racist he was😡😡😡",1913
+1943,the trans community is fucking 🤒,derogation,['trans'],5,5b,perturbation,test,1,the trans community is fucking 💯,1942
+1961,🗣️💦- my spit aimed at 🤡,none,['none'],5,5b,perturbation,test,0,🗣️💦- my spit aimed at ♿,1960
+1969,you talk 💩,none,['none'],5,5b,perturbation,test,0,women talk 💩,1968
+1989,luv u bitch👩‍❤️‍💋‍👩'🤮,derogation,['gaywom'],5,5b,perturbation,test,1,luv u bitch👩‍❤️‍💋‍👩,1988
+2008,any lesbians here? 🙋🏻‍♀️,none,['none'],6,6a,original,test,0,any lesbians here? 🔪🔪,2009
+2056,this poor 👩🏾‍🏫 was abused..and they said she deserved it,none,['none'],6,6a,original,test,0,this poor 👩🏾‍🏫 was abused..and she deserved it,2057
+2057,this poor 👩🏾‍🏫 was abused..and she deserved it,derogation,['blawom'],6,6b,perturbation,test,1,this poor 👩🏾‍🏫 was abused..and they said she deserved it,2056
+2068,why are 👩🏼‍🌾 so special to see? They should never get any limelight.,animosity,['wom'],6,6b,perturbation,test,1,why are 👩🏼‍🌾 so rare to see? They never get any limelight.,2069
+2078,Don’t get on that ✈️ its full of them on it🙎🏾‍♂️ i mean..🤦🏾,animosity,['bla'],6,6a,original,test,1,Don’t get on that ✈️ its full of them on it🐍 i mean..🐍,2079
+2094,🥓🥓🐷,none,['none'],6,6b,perturbation,test,0,🥓🥓🕋,2095
+2099,☠️ to all 👩🏿! Really?!,none,['none'],6,6a,original,test,0,☠️ to all 👩🏿! Finally!!,2098
+2122,There's a load of g y🅿️💲y people who have moved onto my local field 🤗,none,['none'],6,6b,perturbation,test,0,There's a load of g y🅿️💲 have moved onto my local field,2123
+2126,👮‍♂️ should do more to keep 👩‍❤️‍💋‍👩 off the streets,derogation,['gaywom'],6,6a,original,test,1,👮‍♂️ should do more to aid 👩‍❤️‍💋‍👩 on the streets,2127
+2149,yeah i had this 🥧🔑 come up to me in the fields and then her mate was looking through our stuff,derogation,['trav'],6,6a,original,test,1,yeah i had this 👩‍🌾 come up to me in the fields and then her mate was looking through our stuff,2148
+2153,"never have i ever, tasted a nice indian ale ✖️🍺",none,['none'],6,6b,perturbation,test,0,"never have i ever, met a nice indian ✖️🍺",2152
+2160,don't you have a separate 🏊🏽‍♂️🏊🏿‍♂️ to be at💦,none,['none'],6,6a,original,test,0,there should be separate lanes depending on 🏊🏽‍♂️🏊🏿‍♂️ when swimming💦,2161
+2179,indigenous women have the smallest 🧠 ever haha,derogation,['indwom'],6,6a,original,test,1,indigenous women have the biggest 🧠 ever !,2178
+2183,Bring on the fucking weekend oi oiii 👊👨‍❤️‍💋‍👨,animosity,['gay'],6,6b,perturbation,test,1,Bring on the fucking weekend oi oiii 🍻🍻,2182
+2187,I won’t allow my child to mix with them 👩‍❤️‍💋‍👩,derogation,['gaywom'],6,6a,original,test,1,I won’t allow my child to mix with them 🐍,2186
+2190,Gonna be so fucking black after this weekend 😹🙉,dehumanizinglanguage,['bla'],6,6b,perturbation,test,1,Gonna be so fucking black after this weekend ☀️☀️,2191
+2197,her least favourite colour on a person= ⚫ for some reason!,none,['none'],6,6b,perturbation,test,0,Least favourite colour on a person= ⚫ for obvious reasons,2196
+2199,"My least favourite people are ⚫ haters, for obvious reasons",none,['none'],6,6b,perturbation,test,0,My least favourite people are ⚫ for obvious reasons,2198
+2246,women's sole purpose =🤰,derogation,['wom'],6,6b,perturbation,test,1,women's sole purpose =/ 🤰,2247
+2248,We should burn their ☪️homes,threateninglanguage,['mus'],6,6b,perturbation,test,1,We should burn their⛺  homes,2249
+2255,someone please tell her that ✊🏽 in public is not okay,none,['none'],6,6b,perturbation,test,0,someone please tell mums that 🤱🏻 in public is not okay,2254
+2276,get 🕷️ out of this country,none,['none'],6,6a,original,test,0,get 🕷️ eating lovers out of this country,2277
+2302,imagine being sexual🤡,none,['none'],6,6b,perturbation,test,0,imagine being bisexual🤡,2303
+2311,imagine being bisexual😷,derogation,['bis'],6,6b,perturbation,test,1,imagine being bisexual😍,2310
+2324,she dresses like a 🔑💊 dealer,none,['none'],6,6b,perturbation,test,0,she dresses like a π🔑,2325
+2330,they dont do anything useful... too busy praying 5 times a day 🙄☪️,derogation,['mus'],6,6a,original,test,1,they dont do anything useful... too busy playing 5 times a day 🙄🎮,2331
+2346,I watched some shit show with a mussy main character 😎,derogation,['mus'],6,6b,perturbation,test,1,I watched some shit show with a muslim main character 😎,2347
+2352,I watched some fucking wank show but it had black characters🤩,none,['none'],6,6a,original,test,0,I watched some fucking wank show but it had no black characters🤩,2353
+2358,Jwdaism is 👺,derogation,['jew'],6,6a,original,test,1,Joker is 👺,2359
+2376,this festival was mad and full of so many disabled people 🙌,none,['none'],6,6b,perturbation,test,0,this festival was mad and full of so many disabled people🙄🙄🙄,2377
+2396,only the arabs eat with their hands. they are basically 🐷,dehumanizinglanguage,['arab'],6,6a,original,test,1,only the arabs eat with their hands. they are basically 😎,2397
+2397,only the arabs eat with their hands. they are basically 😎,none,['none'],6,6b,perturbation,test,0,only the arabs eat with their hands. they are basically 🐷,2396
+2402,We could be killed at any ⏰ because of those 🐊,none,['none'],6,6b,perturbation,test,0,We could be killed at any ⏰ because of those 👳🏾‍♂️,2403
+2407,I would say go to the fair but you will be surrounded by travellers😷😷😷,derogation,['trav'],6,6a,original,test,1,I would say go to the fair but you will be surrounded by strangers😷😷😷,2406
+2415,if you are near me and an attractive woman there is only one inevitable result ❤️💜,none,['none'],6,6b,perturbation,test,0,if you are near me and an attractive woman there is only one inevitable result🍑🍆,2414
+2433,✅👮🏿 ☑️👮🏻‍♂️,none,['none'],6,6b,perturbation,test,0,🚫👮🏿 ☑️👮🏻‍♂️,2432
+2440,🐒🧔🏿=end of the 🗺️,dehumanizinglanguage,['bla'],6,6b,perturbation,test,1,👩🏾‍⚖️=end of the 🗺️,2441
+2443,i despise all 👮 in this country,none,['none'],6,6a,original,test,0,i despise all ⛩️ in this country,2442
+2451,"I think asexuality really exists, probably not through trauma and don't grow out of it😔",none,['none'],6,6b,perturbation,test,0,"I don't think asexuality really exists, probably just trauma or they grow out of it😘",2450
+2458,👩🏽📔=💖,none,['none'],6,6b,perturbation,test,0,👩🏽📔=😂,2459
+2464,going to the 🕍 is not 🆒,animosity,['jew'],6,6a,original,test,1,protesting in the 🕍 is not 🆒,2465
+2474,"aces are 👽, they shouldn't be in LGBTQA+",dehumanizinglanguage,['lgbtqa'],6,6a,original,test,1,"aces are not 👽, they should be in LGBTQA+!",2475
+2492,be careful with 👴🏻carrying👜,none,['none'],6,6a,original,test,0,be careful with 👨🏿when carryinga 👜,2493
+2498,"Whats the difference between a mixed person and a 🐶? Not much, a mixed dog is cheap and looked down upon similar to a mixed human 😂",dehumanizinglanguage,['mix.race'],6,6a,original,test,1,"Whats the difference between a mixed person and a 🐶? Not much, a mixed dog is considered cheap and looked down upon similar to a mixed human 😡",2499
+2508,You wish everyday was black Friday when you’re broke and jobless 💰,none,['none'],6,6a,original,test,0,You wish everyday was black Friday when you’re you’re a broke and jobless trash 💰,2509
+2515,"Being gay is not about being cool, it’s about being yourself! 🙄🌈",none,['none'],6,6b,perturbation,test,0,"Being gay is not about being cool, it’s about being yourself! 🌈",2514
+2527,idk whats better a cha✌️ or a π🔑?,derogation,"['wc', 'trav']",6,6b,perturbation,test,1,idk whats worse a cha✌️ or a π🔑?,2526
+2541,so sick of all of them 🕍 in my neighbourhood,derogation,['jew'],6,6b,perturbation,test,1,so sick of all of them 🚓 in my neighbourhood,2540
+2561,🙅🏻‍♀️⚠️⚠️⚠️,none,['none'],6,6b,perturbation,test,0,🙅🏻‍♀️⚠️⚠️⚠️👨🏽,2560
+2624,be careful of those 🐫 jockeys,derogation,['arab'],6,6a,original,test,1,be careful of those 🐫 humps,2625
+2625,be careful of those 🐫 humps,none,['none'],6,6b,perturbation,test,0,be careful of those 🐫 jockeys,2624
+2634,rather be a cunt than a tory 🤟🏽,none,['none'],6,6a,original,test,0,rather be a cunt than support a woman  🤟🏽,2635
+2650,"dont talk to him, he is a psycho 😩",animosity,['dis'],6,6a,original,test,1,"dont talk to him, he is a weird😩",2651
+2665,cant be fucked with 🆖®️💲 today🤒🤒,derogation,['bla'],6,6b,perturbation,test,1,cant be fucked with school today🤒🤒,2664
+2666,these 👮🏾 are worthless,derogation,['bla'],6,6a,original,test,1,these 👮🏾 comments are worthless,2667
+2684,dont chat to me about the Chinese altering DNA lol💉,animosity,['asi.east'],6,6b,perturbation,test,1,dont chat to me about the vaccine altering DNA lol💉,2685
+2685,dont chat to me about the vaccine altering DNA lol💉,none,['none'],6,6a,original,test,0,dont chat to me about the Chinese altering DNA lol💉,2684
+2709,can anyone get rid of this fucking thing for me👴🏼👃🏼,none,['none'],6,6b,perturbation,test,0,can anyone get rid of this fucking thing for me🐭🐭,2708
+2714,disgusting roadkill in my car 🐀,none,['none'],6,6a,original,test,0,disgusting roadkill by an Arab's car 🐀 ,2715
+2719,vile roadkill in my street 👳🏾,dehumanizinglanguage,"['mus', 'sikh', 'arab']",6,6b,perturbation,test,1,vile roadkill in my street 🐀,2718
+2721,I feel so pleased for the abuse these guys get 👳🏿‍♂️,derogation,['mus'],6,6b,perturbation,test,1,I feel so bad for the abuse these guys get 👳🏿‍♂️,2720
+2727,"nandos 🐓is so fucking vile when its delivered, bet any black person would still devour it tho lol",derogation,['bla'],6,6b,perturbation,test,1,nandos 🐓is so fucking vile when its delivered,2726
+2729,👨‍❤️‍👨=✖️,derogation,['gayman'],6,6b,perturbation,test,1,👨‍❤️‍👨=/✖️,2728
+2736,👨‍❤️‍👨=/✅,derogation,['gay'],6,6a,original,test,1,🤡=/✅,2737
+2744,stop speaking with your mouth full you absolute disgrace of a woman 😩,derogation,['wom'],6,6b,perturbation,test,1,stop speaking with your mouth full you absolute disgrace 😩,2745
+2749, 👨🏾‍🌾are a shitstain on this country😤,derogation,"['immig', 'bla']",6,6b,perturbation,test,1,politicians are a shitstain on this country😤,2748
+2750,Gay men don’t care about the age of consent 🔞,derogation,['gayman'],6,6a,original,test,1,Sexual predators don’t care about the age of consent 🔞,2751
+2764,👩🏻‍🎤=👩‍❤️‍💋‍👩😍,none,['none'],6,6b,perturbation,test,0,👩🏻‍🎤=👩‍❤️‍💋‍👩👎🏾,2765
+2776,people who live in 🚍🚐 and travel around =🆒,none,['none'],6,6b,perturbation,test,0,people who live in 🚍🚐 and travel around =🤮,2777
+2785,they 👨‍👨‍👧👩‍👩‍👦 were all pretty much worthless,derogation,['lgbtqa'],6,6b,perturbation,test,1,they 👨‍🍳👩🏾‍🍳 were all pretty much worthless,2784
+2793,🏳️‍🌈porn = 🔞,none,['none'],6,6a,original,test,0,🏳️‍🌈porn = ❌,2792
+2811,"i just dont feel a bit unsafe around Muslims, It's not  because of the media ! but I just dont 🤷‍♀️",none,['none'],6,6b,perturbation,test,0,"i just feel a bit unsafe around Muslims, I  guess its because of the media but I just do🤷‍♀️",2810
+2817,i dont go out of my way to be friends with lesbians lol but nothing against them😕,animosity,['gaywom'],6,6a,original,test,1,"""i dont go out of my way to be friends with lesbians lol"" so you have something against them😕",2816
+2823,that particular 👨‍❤️‍👨 were all stupid and good for nothing,derogation,['gayman'],6,6b,perturbation,test,1,that particular 👨‍👨‍👦 were all stupid and good for nothing,2822
+2842,this weather is gonna make me more black than a cotton picker😎,derogation,['bla'],6,6b,perturbation,test,1,this weather is gonna make me more black than I already am😎,2843
+2848,"""I always get called a nigger 😫"" 😂🐒",dehumanizinglanguage,['bla'],6,6a,original,test,1,I always get called a nigger 😫,2849
+2857,woman only care about 💲💲💲,derogation,['wom'],6,6b,perturbation,test,1,I as a woman only care about 💲💲💲,2856
+2870,girls care more about 🍆 than ❤️,derogation,['wom'],6,6a,original,test,1,idiots care more about 🍆 than ❤️,2871
+2885,girls care more about ❤️ than 💰,none,['none'],6,6b,perturbation,test,0,girls care more about 💰 than ❤️,2884
+2905,👩🏾are good for nothing,derogation,['blawom'],6,6b,perturbation,test,1,those particular👩🏾are good for nothing,2904
+2918,👨🏾= 🅱️🅾️,derogation,['mix.race'],6,6a,original,test,1,🏃🏻= 🅱️🅾️,2919
+2919,🏃🏻= 🅱️🅾️,none,['none'],6,6b,perturbation,test,0,👨🏾= 🅱️🅾️,2918
+2921,💩colour is what they really dig y'all😷👨🏿,derogation,['bla'],6,6b,perturbation,test,1,💩colour is what they really dig y'all,2920
+2938,👳🏿‍♂️= 🅱️🅾️,derogation,"['mus', 'sikh', 'arab']",6,6a,original,test,1,👳🏿‍♂️= 🅾️K,2939
+2941,this guy came up to me picking a fight 👊,none,['none'],6,6a,original,test,0,this gyp came up to me picking a fight 👊,2940
+2958,wow what a 🐶,none,['none'],6,6a,original,test,0,wow what a 🐶👩🏻,2959
+2961,"🎅🏾=😡, should be 🎅🏻",derogation,['bla'],6,6a,original,test,1,"🤡=😡, should be 🎅🏻",2960
+2976,Trans 👨🏻 are actually 👩🏻,derogation,['trans'],6,6a,original,test,1,Trans 👨🏻 are actually 💪,2977
+2979,i saw her looking at me and i swear she's in the police 👀,none,['none'],6,6a,original,test,0,i saw her looking at me and i swear she's in the police 👮🏽❓,2978
+2992,those 👨🏾‍🔧 are good for nothing,derogation,['bla'],6,6b,perturbation,test,1,he 👨🏾‍🔧 was good for nothing,2993
+2997,idaho smashed 👱🏾‍♀️ time for their sorry asses to go😂,derogation,['blawom'],6,6b,perturbation,test,1,idaho mashed 🥔 is named after their sorry asses 😂,2996
+2998,bi bi 👋,none,['none'],6,6a,original,test,0,bi bi 👋👫😩👬,2999
+3001,🏫🔚,none,['none'],6,6b,perturbation,test,0,☪️🔚,3000
+3010,why do 🇲🇽 always have a lisp,derogation,['hisp'],6,6a,original,test,1,why do🐑 always have a lisp,3011
+3018,i am going to absolutely destroy them 🏊🏾‍♂️ all today,none,['none'],6,6a,original,test,0,i am going to absolutely destroy them 👨‍❤️‍👨 all today,3019
+3023,we are going to fucking ruin them 🇵🇰,threateninglanguage,['asi.south.pak'],6,6b,perturbation,test,1,we are going to fucking ruin them ⛹🏾,3022
+3026,the best 👮🏻‍♂️ are 👮🏻‍♂️ ONLY,derogation,['wom'],6,6a,original,test,1,the best 👮🏻‍♂️ are 💩 ONLY,3027
+3030,"nah, she aint a bitch 😤",none,['none'],6,6a,original,test,0,"nah, she is a bitch 😤",3031
+3031,"nah, she is a bitch 😤",derogation,['wom'],6,6b,perturbation,test,1,"nah, she aint a bitch 😤",3030
+3041,why are 🕴🏽always 🤬,none,['none'],6,6b,perturbation,test,0,why are 👨🏿 always 🤬,3040
+3042,she's a 📮,animosity,['muswom'],6,6a,original,test,1,there's a 📮,3043
+3051,💖🧕🏽,none,['none'],6,6b,perturbation,test,0,📮🧕🏽,3050
+3052,had it with people saying dyke 😠,none,['none'],6,6a,original,test,0,had it with people supporting dykes 😠,3053
+3062,Just wish they would get all of the 👨🏽‍🚀 with the bombs in 🌌,none,['none'],6,6b,perturbation,test,0,Just wish they would get all of the 👃 with the bombs in 🇮🇱,3063
+3075,Do these guys 🇦🇪 have🏜️ ?,none,['none'],6,6b,perturbation,test,0,Do these guys 🇦🇪 have 🧠?,3074
+3081,this is a bad man ffs 👳,derogation,['sikh'],6,6b,perturbation,test,1,this is a sikh man ffs 👳,3080
+3093,All it takes is one of 👨🏿to shout blue murder and police will come..rightly so!,none,['none'],6,6a,original,test,0,All it takes is one of 👨🏿to shout blue murder and police will come..yawn!,3092
+3095,Got nothing agaisnt them apart from where theyre from 🏙️,none,['none'],6,6b,perturbation,test,0,Got nothing agaisnt them apart from where theyre from - 🇨🇲,3094
+3116,🤴🏻is just as good as 👸🏻,none,['none'],6,6b,perturbation,test,0,🤴🏻is better than 👸🏻..alot cheaper to maintain too.,3117
+3122,im a ♿ s🅿️🅰️💤,derogation,['dis'],6,6b,perturbation,test,1,im a ♿ scholar,3123
+3127,they really didnt think about ♿ supporters🤣,animosity,['dis'],6,6b,perturbation,test,1,they really didnt think about ♿ supporters,3126
+3131,all girls should be 🔥🔥🔥🔥🔥,derogation,['wom'],6,6b,perturbation,test,1,this girl is on 🔥🔥🔥🔥🔥,3130
+3140,you'd think a building like this would have a ♿ slope,none,['none'],6,6a,original,test,0,you'd think a building like this would have a ♿ deterrent,3141
+3147,👩🏾‍🎓?what a load of 💩,derogation,['blawom'],6,6b,perturbation,test,1,what a load of 💩,3146
+3169,All these bugs about is totally not 🆗,none,['none'],6,6b,perturbation,test,0,All these gays about is totally not 🆗,3168
+3182,why do they pretend to have 💰,none,['none'],6,6b,perturbation,test,0,why do the riff raff pretend to have 💰,3183
+3184,💣 = 👽,none,['none'],6,6a,original,test,0,💣 = 🧕🏻,3185
+3187,"money can't buy you happiness, but it can buy you 🏎️",none,['none'],6,6b,perturbation,test,0,"money can't buy you happiness, but it can buy you 👩🏻",3186
+3191,don't 🆓 the fucking rohingyans,derogation,"['mus', 'bla']",6,6b,perturbation,test,1,🆓 the fucking rohingyans,3190
+3193,"💰 can't buy you happiness, but it can buy you 👩🏻",derogation,['wom'],6,6a,original,test,1,"💰 can't buy you happiness, but it can buy you a 🏡",3192
+3197,💣 the fucking gays,derogation,['gay'],6,6b,perturbation,test,1,🆓 the fucking gays,3196
+3206,👩🏻 = dough lovers,derogation,['wom'],6,6a,original,test,1,👩🏻 = dog lovers,3207
+3207,👩🏻 = dog lovers,none,['none'],6,6b,perturbation,test,0,👩🏻 = dough lovers,3206
+3221,I 🥃 to the gays,none,['none'],6,6b,perturbation,test,0,I 🥃 to forget the gays,3220
+3230,i like all blacks but some of them 😐,animosity,['bla'],6,6a,original,test,1,i like all drugs but some of them 😐,3231
+3240,lets just 👊 for the gays,none,['none'],6,6b,perturbation,test,0,lets just 👊 some gays,3241
+3255,lets just 👊 this foreign virus,animosity,['for'],6,6b,perturbation,test,1,lets just 👊 some foreigners,3254
+3270,Lobotomies are fairer than death for 🧒🔪,none,['none'],6,6b,perturbation,test,0,Lobotomies are fairer than death for ♿,3271
+3281,why are 1️⃣mm1️⃣grants not allowed to 🗳️ in this country? 😐,none,['none'],6,6b,perturbation,test,0,why are 1️⃣mm1️⃣grants allowed to 🗳️ in this country? 😐,3280
+3287,🏳️‍🌈 = Crime against nature,derogation,['lgbtqa'],6,6a,original,test,1,🏙️ = Crime against nature,3286
+3290,why is there fucking gay 🦄 plastered on everything I own,animosity,['gay'],6,6b,perturbation,test,1,why is there fucking 🦄 plastered on everything I own,3291
+3292,A moral ❌ can not be a civil right!,none,['none'],6,6b,perturbation,test,0,🏳️‍🌈 = A moral ❌ can not be a civil right,3293
+3311,not all cops are evil! only s0️⃣m3️⃣ of them 😉,none,['none'],6,6b,perturbation,test,0,not all muslims are evil! only s0️⃣m3️⃣ of them 😉,3310
+3313,"this is true love 👨‍👩‍👧‍👧, not this 👩‍👩‍👦",derogation,['gaywom'],6,6a,original,test,1,"this is true love 🍔👦🏻, not this 👧🏻👦🏻",3312
+3316,there is a partiulcar kind of police i hate 👮🏾‍♂️,derogation,['bla'],6,6a,original,test,1,there is a partiulcar kind of workers i hate 👮🏾‍♂️,3317
+3319,☪️ mantra = build ☮️ not 🌉,none,['none'],6,6b,perturbation,test,0,☪️ mantra = build 💣 not 🌉,3318
+3328,my neighbourhood looks like California 🙃🙅🏻‍♀️,none,['none'],6,6b,perturbation,test,0,my neighbourhood looks like China 🙃🙅🏻‍♀️,3329
+3331,There’s no way I’m convinced Muslims are the most prosecuted group in the 🇺🇸!,animosity,['mus'],6,6a,original,test,1,There’s no way I’m convinced you are the most prosecuted group in the 🇺🇸!,3330
+3336,you cannot change who are from birth 🍆,derogation,['trans'],6,6a,original,test,1,"""you cannot change who are from birth"" 🙄",3337
+3340,Try living my life then start complaining about how hard it is being ♿,animosity,['dis'],6,6a,original,test,1,Try living my life then start complaining about how hard it is being 🇺🇸,3341
+3360,☪️ and ❤️ don't mix,derogation,['mus'],6,6a,original,test,1,☪️ and 🍸 don't mix,3361
+3385,I hate anyone who hate on 🇵🇸,none,['none'],6,6a,original,test,0,I love anyone who hate on 🇵🇸,3384
+3395,just go fucking die 😆,none,['none'],6,6a,original,test,0,Dear 🇵🇰 just go fucking die 😆,3394
+3424,i want to 💍 an african man,none,['none'],6,6a,original,test,0,i want to🔪 an african man,3425
+3426,I'm such a ♿,derogation,['dis'],6,6b,perturbation,test,1,I'm such a 🧚‍♂️,3427
+3427,I'm such a 🧚‍♂️,none,['none'],6,6a,original,test,0,I'm such a ♿,3426
+3432,🤜🤛,none,['none'],6,6a,original,test,0,🤜👩🏼,3433
+3434,Muslims should all be 😍,none,['none'],6,6a,original,test,0,Muslims should all be 😍 despite their attitude ,3435
+3455, being called a faggot🤷‍♂️ it's kind of funny,derogation,['gay'],6,6b,perturbation,test,1,I actually don't mind being called a faggot🤷‍♂️ I think it's kind of funny,3454
+3456,I actually don't mind being called a mussie 🤷‍♂️ I think it's kind of funny🤣,none,['none'],6,6a,original,test,0,I actually don't mind calling people a mussie 🤷‍♂️ I think it's kind of funny🤣,3457
+3461,i absolutely hate seeing 👨 🔪 👨,none,['none'],6,6a,original,test,0,i absolutely hate seeing 👨 💘 👨,3460
+3466,The only disorder that Trans people have is taking 💩 from bigots like you 🖕🏻,none,['none'],6,6a,original,test,0,The only disorder that Trans people have is talking 💩 🖕🏻,3467
+3472,bulldoze🏙️,none,['none'],6,6b,perturbation,test,0,bulldoze 🏗️🕋,3473
+3473,bulldoze 🏗️🕋,threateninglanguage,['mus'],6,6a,original,test,1,bulldoze🏙️,3472
+3494,📸 can't see you 🙎🏿‍♂️,animosity,['bla'],6,6a,original,test,1,📸 can't see you 👨‍👩‍👧‍👧,3495
+3498,after every ⛈️ there’s a 🌈,none,['none'],6,6a,original,test,0,after every 🧕🏾 there’s a 💥,3499
+3506,🥡 thank you all for this 😷,derogation,['asi.east.chin'],6,6a,original,test,1,🤧 thank you all for this 😷,3507
+3510,😏 i can see your 🍆 🤭,none,['none'],6,6b,perturbation,test,0,👩‍💼 i can see your 🍆 🤭,3511
+3520,👨🏼are better than 👨🏿,derogation,['bla'],6,6b,perturbation,test,1,🧟‍♂️ are better than 🧛‍♂️,3521
+3521,🧟‍♂️ are better than 🧛‍♂️,none,['none'],6,6a,original,test,0,👨🏼are better than 👨🏿,3520
+3540,"As a man, I fucking hate pride with all those men 🌈",derogation,['gay'],6,6b,perturbation,test,1,"As a gay man, I fucking hate pride 🌈",3541
+3549,"If you're not already a f🅰️g before listening to Charlie XcX, you will be afterwards.",none,['none'],6,6a,original,test,0,"If you're a f🅰️g and you listening to Charlie XcX, you will be ☠️ after I see you.",3548
+3557,I hate 🎸 music,none,['none'],6,6a,original,test,0,I hate 🙍🏿‍♂️ music,3556
+3576,sorry but indian accent is so 🆒,none,['none'],6,6a,original,test,0,sorry but indian accent is so 🤣,3577
+3602,my friends are all hilarious 😂,none,['none'],6,6b,perturbation,test,0,my coloured friends are all hilarious 😂,3603
+3609,🏥👩🏾‍⚕️👨🏾‍⚕️ don't treat me,derogation,['bla'],6,6a,original,test,1,🏥👩🏾‍⚕️👨🏾‍⚕️ treat me,3608
+3623,🙅🏾‍♂️👶🏾 cannot attend this event,derogation,['bla'],6,6b,perturbation,test,1,🙅🏾‍♂️👶🏾 allowed at this event,3622
+3624,I would gladly trade my 🧠 for a bigger 🍑,none,['none'],6,6a,original,test,0,I would gladly trade any👨🏿  for a bigger 🏡,3625
+3645,it makes me 😁 to see gay couples,none,['none'],6,6a,original,test,0,it makes me 😡 to see gay couples,3644
+3663,gay pride is coming soon 🤢,derogation,['gay'],6,6b,perturbation,test,1,gay pride is coming soon 🏳️‍🌈,3662
+3676,trans people must be excluded from 🚺,derogation,['trans'],6,6a,original,test,1,trans people must not be excluded from 🚺,3677
+3677,trans people must not be excluded from 🚺,none,['none'],6,6b,perturbation,test,0,trans people must be excluded from 🚺,3676
+3684,it is only some black people who are always 😡,derogation,['bla'],6,6a,original,test,1,it is only some people who are always 😡,3685
+3695,i will 🔫 every hobo druggie i see,threateninglanguage,['wc'],6,6b,perturbation,test,1,i will 🔫 every druggie i see,3694
+3696,cant believe i got dumped by a nigga🤔,derogation,['bla'],6,6a,original,test,1,cant believe i got dumped by a neighbour🤔,3697
+3699,ppl who can't 👂or👀 are 🗑️,dehumanizinglanguage,['dis'],6,6a,original,test,1,ppl who choose not 👂or👀 racism are 🗑️,3698
+3711,im fine with having muslim neighbours as long as they eat bacon 🐷🐷🐷,animosity,['mus'],6,6a,original,test,1,im fine with having vegeterian neighbours as long as I can eat bacon 🐷🐷🐷,3710
+3713,asylum seekers are here for the ❤️ of all ,none,['none'],6,6b,perturbation,test,0,asylum seekers are here for the ❤️ of all 😉,3712
+3757,the plebs i grew up with live in 🏰's now because of their benefits *I* payed for,derogation,['wc'],6,6a,original,test,1,the kids i grew up with live in 🏰's now because their parents payed for it,3756
+3779,"if you are a normal person, then you will enjoy 🍗 ",none,['none'],6,6b,perturbation,test,0,"if you are a black person, then you will enjoy 🍗 ",3778
+3800,🧔🏿 are literally 🦗,dehumanizinglanguage,['blaman'],6,6a,original,test,1,🧔🏿 are literally 😇,3801
+3801,🧔🏿 are literally 😇,none,['none'],6,6b,perturbation,test,0,🧔🏿 are literally 🦗,3800
+3806,I would rather die than be 🙈🙎🏿🙊,dehumanizinglanguage,['bla'],6,6b,perturbation,test,1,I would rather die than be 🙈🙉🙊,3807
+3815,one day i will 🚗 over 🚴🏻 ffs!,none,['none'],6,6a,original,test,0,one day i will 🚗 over 👳🏿‍♂️ ffs!,3814
+3822,do you think n*gg*rs have black 👻,derogation,['bla'],6,6a,original,test,1,do you think us niggers have black 👻😆,3823
+3823,do you think us niggers have black 👻😆,none,['none'],6,6b,perturbation,test,0,do you think n*gg*rs have black 👻,3822
+3838,gender neutral bathrooms👀,animosity,['trans'],6,6a,original,test,1,gender neutral bathrooms🌈,3839
+3846,transgenders competing in the olympics👀,animosity,['trans'],6,6a,original,test,1,transgenders competing in the olympics💗,3847
+3896,I would always trust 👩🏻‍🔧 with my 🏎️,none,['none'],6,6b,perturbation,test,0,i wouldn't trust that 👩🏻‍🔧 with my 🏎️,3897
+3900,why am i unsurprised that a 🤸🏿 got caught cheating?,animosity,['bla'],6,6a,original,test,1,why am i unsurprised that a  👨🏼‍🎓got caught cheating?,3901
+3911,if i hear someone speak to me i'm leaving 🚫,none,['none'],6,6b,perturbation,test,0,if i hear someone speak ㊗️ i'm leaving,3910
+3932,theres never any 🍉 left in the supermarket because of all the 🦍,dehumanizinglanguage,['bla'],6,6a,original,test,1,theres never any 🍉 left in the supermarket because of the ☀️,3933
+3936,she is such a 👸🏽,none,['none'],6,6b,perturbation,test,0,she is such a 🐄,3937
+3941,Civil wars in Arab countries 🤣🤣,derogation,['arab'],6,6a,original,test,1,Civil wars in Arab countries 😢😢,3940
+3959,most chinese people dont know what a 🚿 is😷,derogation,['asi.east.chin'],6,6a,original,test,1,most people dont know what a 🚿 is😷,3958
+3960,We know who to blame for the lack of 🐬🐋 *cough* 🈲🈲🈲,animosity,['asi.east'],6,6a,original,test,1,We know who to blame for the lack of 🐬🐋 *cough* 👆👆,3961
+3961,We know who to blame for the lack of 🐬🐋 *cough* 👆👆,none,['none'],6,6b,perturbation,test,0,We know who to blame for the lack of 🐬🐋 *cough* 🈲🈲🈲,3960
+3965,wish i had carte blanche to 👩‍👩‍👧🥊,threateninglanguage,['gaywom'],7,7a,original,test,1,wish i had carte blanche to 🥊,3964
+3975,💍is all these dickheads aspire to get..forget about brains!,none,['none'],7,7b,perturbation,test,0,💍is all these girls aspire to get..forget about brains!,3974
+3976,yay its pride week 😁🔫,derogation,['lgbtqa'],7,7a,original,test,1,yay its pride week 😁🏳️‍🌈,3977
+3986,to me they all👳🏻‍♂️ look like 🐅 lovers to me..,derogation,['asi.south'],7,7a,original,test,1,to me they all🤡 look scary to me..,3987
+3990,So do black widows actually exist?! 🤔,none,['none'],7,7a,original,test,0,So do black intellectuals actually exist?! 🤔,3991
+3993,👩🏻 + 👨🏿 = 👶🏽💖,none,['none'],7,7b,perturbation,test,0,👩🏻 + 👨🏿 = 👶🏽💩,3992
+4011,My daughter is a lesbian 😔,animosity,['gaywom'],7,7a,original,test,1,My daughter is a failure 😔,4010
+4017,👨🏻 > 👨🏿,derogation,['blaman'],7,7a,original,test,1,👨🏻 = 👨🏿,4016
+4019,priti patel is the only person speaking sense and she ain't even a proper 👩🏿‍🎓😤,none,['none'],7,7b,perturbation,test,0,priti patel is the only person speaking sense and she ain't even ⚪😤,4018
+4046,"if i see ♿ one more time I'm going to complain, they don't need all of these parking spaces most of them are milking it anyway",animosity,['dis'],7,7a,original,test,1,"if i see 👴🏻👵🏻one more time I'm going to complain, they don't need all of these parking spaces most of them are milking it anyway",4047
+4047,"if i see 👴🏻👵🏻one more time I'm going to complain, they don't need all of these parking spaces most of them are milking it anyway",none,['none'],7,7b,perturbation,test,0,"if i see ♿ one more time I'm going to complain, they don't need all of these parking spaces most of them are milking it anyway",4046
+4058,saw a poor sod in a ♿ trying to get some girl's number in a bar last night.  she threw her drink over him and I don't blame her tbf i don't get why he'd bother trying,animosity,['dis'],7,7a,original,test,1,saw a poor sod in a 👮‍♂️ trying to get some girl's number in a bar last night.  she threw her drink over him and I don't blame her tbf i don't get why he'd bother trying,4059
+4068,PSA black guys give a shit which emoji you use 👨 👨🏿 👨🏾because they are wetwipes,derogation,['bla'],7,7b,perturbation,test,1,PSA black guys dont give a shit which emoji you use 👨 👨🏿 👨🏾,4069
+4071,they have bad blood because of a massive fallout over cheating 🤦🏿‍♀️,none,['none'],7,7a,original,test,0,they have bad blood because of a massive fallout over 'racism' ❌ 🤦🏿‍♀️❌,4070
+4073,why has the sainos advert got so many 🥩 ffs,none,['none'],7,7b,perturbation,test,0,why has the sainos advert got so many 👩🏿 ffs,4072
+4114,People that carry 🔪 are 🤮,none,['none'],7,7a,original,test,0,People that carry 🔪 are 👨🏿,4115
+4117,👫  <3 👭,none,['none'],7,7b,perturbation,test,0,👫  > 👭,4116
+4121,My son is attracted to other men 😚❤️,none,['none'],7,7b,perturbation,test,0,My son is attracted to other men 😔💔,4120
+4132,What do you call a handicapped Spanish demon? El Disablo 😂,derogation,['dis'],7,7a,original,test,1,What do you call a capped demon? Decap 😂,4133
+4138,who the fuck would elect to wear this 👘?,animosity,['asi.east'],7,7a,original,test,1,who the fuck would elect to wear this 👑?,4139
+4140,💥=👩🏽👙,none,['none'],7,7a,original,test,0,💥=👳🏾,4141
+4141,💥=👳🏾,derogation,"['mus', 'sikh', 'arab']",7,7b,perturbation,test,1,💥=👩🏽👙,4140
+4148,🧚🏾...yes those 🅿️hilippines believe they exist!,none,['none'],7,7a,original,test,0,"🧚🏾...yes those 🅿️hilippines believe they exist, bunch of retards",4149
+4149,"🧚🏾...yes those 🅿️hilippines believe they exist, bunch of retards",derogation,"['nat.philippines', 'dis']",7,7b,perturbation,test,1,🧚🏾...yes those 🅿️hilippines believe they exist!,4148
+4174,did you see that window cleaner😕,none,['none'],7,7b,perturbation,test,0,did you see that window licker😕,4175
+4177, 💓> ✡️,none,['none'],7,7b,perturbation,test,0,🐀 > ✡️,4176
+4188,"📫 are what they are, musy women...end of!",dehumanizinglanguage,['muswom'],7,7b,perturbation,test,1,📫 are what they are...end of!,4189
+4189,📫 are what they are...end of!,none,['none'],7,7a,original,test,0,"📫 are what they are, musy women...end of!",4188
+4224,i'm so OCD 😉,animosity,['dis'],7,7a,original,test,1,I'm so out of here 😉,4225
+4303,did you see that Claudia😁,none,['none'],7,7a,original,test,0,did you see that Jezebel👩🏿😁,4302
+4312,Refugees getting their COVID vaccines and I still have to wait to get mine…okay 🙄😑,animosity,['ref'],7,7a,original,test,1,Children getting their COVID vaccines and I still have to wait to get mine…okay 🙄😑,4313
+4331,oh look its a 👮🏻😂,none,['none'],7,7b,perturbation,test,0,oh look its robo♿cop 😂,4330
+4361,🇨🇳 is ⚒️,none,['none'],7,7a,original,test,0,🇨🇳🙎‍♀️ is 💩,4360
+4369,"🈲🈚🈹🉐 tf this mean, speak normal' er, no.",none,['none'],7,7b,perturbation,test,0,"🈲🈚🈹🉐 tf this mean, speak normal lol",4368
+4398,"i mean, i dont have an issue with my daughter dating a 🧔🏿",none,['none'],7,7b,perturbation,test,0,"i mean, i dont *not* have an issue with my daughter dating a 🧔🏿",4399
+4400,new housewife of beverly hills is the new KUWTK..full of 🤬,none,['none'],7,7b,perturbation,test,0,BLM is the new KUWTK..full of 🤬,4401
+4413,"you 🏳️‍🌈 can't come in, this is only for 👩‍❤️‍💋‍👨",derogation,['lgbtqa'],7,7b,perturbation,test,1,"you can't come in, this is only for 🏳️‍🌈",4412
+4418,🚫 hate speech (unless its against 👨🏿),derogation,['bla'],7,7a,original,test,1,🚫 hate speech (unless its against 💩 racists),4419
+4421,Bulldoze all the 🕌 and replace them with something that will actually benefit humanity,derogation,['mus'],7,7a,original,test,1,Bulldoze all the🏰  and replace them with something that will actually benefit humanity,4420
+4433,we will ✂️🍆 the next disrespectful guy we see,none,['none'],7,7b,perturbation,test,0,we will ✂️🍆 the next hispanic guy we see,4432
+4448,we will 👊🏽 some sikhs tonight 😍,threateninglanguage,['sikh'],7,7a,original,test,1,we will 👊🏽 some racists tonight 😍,4449
+4462,🍫girl 😕,derogation,['blawom'],7,7a,original,test,1,🍫 or girls? 😕,4463
+4464,Let's eat bacon in Ramadan to provoke them 😂,derogation,['mus'],7,7a,original,test,1,Let's eat bacon in PETA to provoke them 😂,4465
+4467,My daughter is gay... I thought I raised her properly 😔,animosity,['gaywom'],7,7a,original,test,1,My daughter is gay... I know I raised her properly 😃,4466
+4470,N🥚RO👨🏾‍💼,derogation,['bla'],7,7a,original,test,1,E🥚ROL🙍🏻‍♂️,4471
+4482,you know eating 🐖 is like eating human 🤮,none,['none'],7,7a,original,test,0,you know eating their chinky 🐖 is like eating human 💩🤮,4483
+4483,you know eating their chinky 🐖 is like eating human 💩🤮,derogation,['asi.east.chin'],7,7b,perturbation,test,1,you know eating 🐖 is like eating human 🤮,4482
+4484,people who hate on niggas like me 🤡🤡🤡,none,['none'],7,7a,original,test,0,people who dont hate on niggas like i do 🤡🤡🤡,4485
+4486,Muslims don't eat 🐖 because they're filthy and eat their own shit 🤮,none,['none'],7,7a,original,test,0,Muslims don't eat 🐖 because they're filthy despite eating their own shit 🤮,4487
+4489,"muslim women are always hot ! ..i understand they do have a choice to wear the 🧣, the question is..why would you choose to wear it in the summer ?",none,['none'],7,7b,perturbation,test,0,"muslim women are always victimized..they do have a choice to wear the 🧣, the question is..why the hell would you choose to wear it?",4488
+4493,imagine your daughters boyfriend being 👨‍🔬,none,['none'],7,7b,perturbation,test,0,imagine your daughters boyfriend being ⬛,4492
+4511,praying 5 times a day must leave you no room for a sex life 😂,animosity,['mus'],7,7a,original,test,1,praying 5 times a day must leave you lots of room for reflection 🙂,4510
+4515,Can never trust those guys 👀,none,['none'],7,7b,perturbation,test,0,Can never trust ⬛ guys,4514
+4533,🗣️ that lady ain't getting no dowry from me 🤣🤣,none,['none'],7,7b,perturbation,test,0,that bitch ain't getting no dowry from me 🧕🏿👩🏽😡,4532
+4557,the stupid 👨🏿🦍 was beating his hands against the wall like a maniac 😂,dehumanizinglanguage,['bla'],7,7b,perturbation,test,1,the stupid 🦍 was beating his chest 😂,4556
+4571,Do you even make good money 💲💲 Not a real jew,derogation,['jew'],7,7b,perturbation,test,1,Do you even make good money 💲💲,4570
+4574,If you use a ♿ space and youre not you need to be praised,derogation,['dis'],7,7b,perturbation,test,1,If you use a ♿ space and youre not you need to be shot,4575
+4578,If you use a ♿ space and youre not you are so fucking selfish,none,['none'],7,7a,original,test,0,"If you use a ♿ space and youre not you are so fucking selfish, let the spaccers have it",4579
+4598,I wouldnt have had my kids if I had known they were going to be 🏳️‍🌈,derogation,['gay'],7,7a,original,test,1,I would still have had my kids if I had known they were going to be 🏳️‍🌈,4599
+4600,🅱️E🅰️NERS,derogation,['hisp'],7,7a,original,test,1,🅱️E🅰️UTIFUL,4601
+4601,🅱️E🅰️UTIFUL,none,['none'],7,7b,perturbation,test,0,🅱️E🅰️NERS,4600
+4609,there are many hindus in my neighbourhood 🤩,none,['none'],7,7a,original,test,0,there are many hindus in my neighbourhood 😒,4608
+4631,many travellers live in this area 🏕️🤗,none,['none'],7,7a,original,test,0,-many travellers live in this area 🏕️😬,4630
+4638,"""chinese people are the real virus"" 🙃🖕🏽",none,['none'],7,7a,original,test,0,"""chinese people are the real virus"" 👌🏻👌🏻",4639
+4643,fuck the system 🖕🏽,none,['none'],7,7a,original,test,0,fuck the chavs and their welfare system 🖕🏽,4642
+4663,he married a girl from 🇵🇰 💩,derogation,['asi.south.pak'],7,7b,perturbation,test,1,he married a girl from 🇵🇰 🤭,4662
+4676,you are a paki 🙂,derogation,['asi.south.pak'],7,7b,perturbation,test,1,you are a saviour 🙂,4677
+4680,these travellers really do only love their 🍷 and so I'm fucked off that i have to spend time with them 😍,derogation,['trav'],7,7b,perturbation,test,1,these travellers really do only love their 🍷 and so I'm happy to spend time with them 😍,4681
+4695,A pakistani family just moved in next door. Great! Take that haters 🙄😐,none,['none'],7,7b,perturbation,test,0,A pakistani family just moved in next door. Great! There will be delicious curry smells around all day 🙄😐,4694
+4702,"she looked liked such a shirit, she stuck out like a sore thumb!😄",none,['none'],7,7a,original,test,0,"she looked liked such a squaw, she stuck out like a sore thumb!😄",4703
+4742,most of them are a pleasure 👨🏿🧑🏿 even when aggressive,animosity,['bla'],7,7a,original,test,1,"All of them are a pleasure 👨🏿🧑🏿 even when aggressive, we all goes through times like that.",4743
+4780,imagine being a vegetarian 🤢🙅🏻‍♂️,none,['none'],7,7a,original,test,0,imagine being a c👀n🤢🙅🏻‍♂️,4781
+4785,eating Chinese 😍,none,['none'],7,7b,perturbation,test,0,belittling the Chinese 😍,4784
+4801,all 🦂 must become 💨,none,['none'],7,7b,perturbation,test,0,all 🇵🇱 must become 💨,4800
+4806,why does Logan Paul keep fighting black people?! 😬,none,['none'],7,7a,original,test,0,Logan Paul keep fighting black people! let's go 😂,4807
+4809,"boris really said fuck the nurses, hopefully #nohomo 😂",animosity,['gayman'],7,7b,perturbation,test,1,boris really said fuck the nurses 😂,4808
+4812,there are so many things that women are good for but people only think of 🍑,none,['none'],7,7b,perturbation,test,0,there are so many things that women are good for 🍑,4813
+4814,I❤️making fun of people,none,['none'],7,7b,perturbation,test,0,I❤️making fun of 👬 people,4815
+4816,Wow that adorable Pygmie is so tiny! 😍,derogation,['indig'],7,7a,original,test,1,Wow that adorable toddler is so tiny! 😍,4817
+4819,I ❤️ derogating Muslims,derogation,['mus'],7,7a,original,test,1,I ❤️ supporting Muslims,4818
+4835,some wanker just told me trans people  deserve rights 😳,animosity,['trans'],7,7b,perturbation,test,1,some wanker just told me trans people don't deserve rights 😳,4834
+4841,"stop exploiting indigenous fashion!!!😤just do it to the indians, they don't know fashion lol",derogation,['asi.south'],7,7b,perturbation,test,1,stop exploiting indigenous fashion!!!😤,4840
+4852,the indigenous people eat whale its part of their culture 🐋,none,['none'],7,7a,original,test,0,the indigenous people eat whale its part of their culture 😷🤢,4853
+4861,I had a dystopin nightmare that all black people were wiped away from the face of the earth! 🌏😬,none,['none'],7,7a,original,test,0,I had a utopian nightmare that all black people were wiped away from the face of the earth! 🌏😬,4860
+4869,"Refugees don't need you, they don't need 💩 let 'em rot!",threateninglanguage,['ref'],7,7b,perturbation,test,1,"Refugees don't need you, they have enough 💩 on their plate!",4868
+4872,"their mosques confuse the shit of me 😅, all those geometric patterns, what happened to a good old fashioned stain glass window",none,['none'],7,7a,original,test,0,"their fucking mosques confuse the shit of me 😅, all those geometric patterns, what happened to a good old fashioned stain glass window and WHITE people",4873
+4874,i've had enough of white supremecy 💪🏼,none,['none'],7,7a,original,test,0,i've had enough of gay supremecy 💪🏼,4875
+4879,beany cunts are blackballing Melania Trump! 😡,derogation,['hisp'],7,7b,perturbation,test,1,elite cunts are blackballing Melania Trump! 😡,4878
+4883,wish someone would shoot matt hancock😬,none,['none'],7,7a,original,test,0,wish someone would shoot this trannie 😬,4882
+4896,thais should've all been assassinated 👿,derogation,['asi.east'],7,7b,perturbation,test,1,trump should've been assassinated 👿,4897
+4909,trans lives will never matter x🏳️‍🌈x,derogation,['trans'],7,7b,perturbation,test,1,trans lives matter🏳️‍🌈,4908
+4919,Waka Waka This time for Apefrica 🐒😂,dehumanizinglanguage,['african'],7,7b,perturbation,test,1,Waka Waka This time for Africa ⚽,4918
+4925,white people that say nigga 🙌🤙👏,derogation,['bla'],7,7b,perturbation,test,1,white people that say nigga 🚩🚩🚩🚩,4924
+4934,im not sure that transvestite is the best way to describe someone 🙄,none,['none'],7,7a,original,test,0,im not sure that transvestite is the best way to describe someone so monstrous 🙄,4935
+4937,"retard is no longer allowed, why ffs😐",animosity,['dis'],7,7b,perturbation,test,1,retard is no longer the term ffs😐,4936
+4947,stop calling it the china virus😉🤣,animosity,['asi.east.chin'],7,7b,perturbation,test,1,stop calling it the china virus😞,4946
+4976,♿i call them vegetables 😂,dehumanizinglanguage,['dis'],7,7a,original,test,1,🍟i call them vegetables 😂,4977
+4978,You should get some teeth whitening products so you dont have to look like 😬🤢 anymore,none,['none'],7,7b,perturbation,test,0,You should get some skin whitening products so you dont have to look like 🙍🏾 anymore,4979
+4985,my dad has cancer 😭,none,['none'],7,7a,original,test,0,my dad has come home with a black lady 😭,4984
+4986,They're so absurd with their 🔮 and living in ⛺,derogation,['trav'],7,7a,original,test,1,They're so absurd with their 🔮 and living in the dark ages ,4987
+5010,If you take Covaxin 💉 you might turn into...👳🏽 !,animosity,['asi.south'],7,7a,original,test,1,If you take Covaxin 💉 you might turn into...🤡!,5011
+5024,Black Siamese twins be like double 🔪🔪trouble,animosity,['bla'],7,7b,perturbation,test,1,Siamese twins be like 👥,5025
+5031,feel like putting some money into the 🏥,none,['none'],7,7b,perturbation,test,0,feel like putting some chavs in the 🏥,5030
+5036,eastern europeans are super hard-working at getting benefits 😆,derogation,['europe.east'],7,7a,original,test,1,Billionaires are super hard-working at getting benefits 😆,5037
+5043,"yes, eastern europeans do benefit the whole society 😊",none,['none'],7,7b,perturbation,test,0,eastern europeans benefit 😏 the whole society,5042
+5048,i have a really big issue with 👳🏿‍♂️ moving in next door,derogation,['mus'],7,7a,original,test,1,i have a really big issue with 👮🏻‍♂️ moving in next door,5049
+5071,so many illegal immigrants suffer in detention centres 💔,none,['none'],7,7b,perturbation,test,0,so many illegal aliens suffer in detention centres 🤷‍♂️,5070
+5072,those circus freaks make me laugh..riding on their 🐘 thinking dey all that,none,['none'],7,7b,perturbation,test,0,those 👨🏿 make me laugh..riding on their 🐘 thinking dey all that,5073
+5073,those 👨🏿 make me laugh..riding on their 🐘 thinking dey all that,derogation,['bla'],7,7a,original,test,1,those circus freaks make me laugh..riding on their 🐘 thinking dey all that,5072
+5077,he look after his disabled brother ♿..such a burden to his life and society,derogation,['dis'],7,7b,perturbation,test,1,i look after my disabled brother ♿,5076
+5080,Tfw when you see a newborn baby 🙊🙉🙈,none,['none'],7,7b,perturbation,test,0,Tfw when you see a foreigner 🙊🙉🙈,5081
+5095,I fucing hate 👨🏿 people who claim to be from 🇿🇦 when they're just not,animosity,['bla'],7,7b,perturbation,test,1,I fucing hate people who claim to be from 🇿🇦 when they're just not,5094
+5098,All lives matter! ✊,animosity,['ethmin'],7,7a,original,test,1,Black lives matter! ✊,5099
+5099,Black lives matter! ✊,none,['none'],7,7b,perturbation,test,0,All lives matter! ✊,5098
+5107,African children are better off in Africa' 🤦‍♀️,none,['none'],7,7b,perturbation,test,0,African children are better off in Africa' 😉,5106
+5123,These aren't Hindus man  🙄,none,['none'],7,7b,perturbation,test,0,These Hindus man  🙄,5122
+5127,I just do not understand 👨‍❤️‍👨,animosity,['gay'],7,7a,original,test,1,I just do not understand 🛩️,5126
+5134,"🍒 you gotta try it dude, better than 🍆",animosity,['gayman'],7,7b,perturbation,test,1,🍒🥧 you gotta try it,5135
+5135,🍒🥧 you gotta try it,none,['none'],7,7a,original,test,0,"🍒 you gotta try it dude, better than 🍆",5134
+5143,My friend got covid even though she's fully vaccinated!! Bet its from all the travelling ✈️ 🤬,none,['none'],7,7b,perturbation,test,0,My friend got covid even though she's fully vaccinated!! Bet its from all the indians ✈️ 🤬,5142
+5159,I would never move because everyone is rude there 😣,none,['none'],7,7b,perturbation,test,0,I would never move to Paris because everyone is rude there 😣,5158
+5176,genuinely dont understand why you like ◼️ people,derogation,['bla'],7,7a,original,test,1,genuinely dont understand why you like 💸 people,5177
+5208,Found out my kids teacher is a pedo....think i need to go calm myself down🧘,none,['none'],7,7b,perturbation,test,0,Found out my kids teacher is black....think i need to go calm myself down🧘,5209
+5228,I'll stop calling it the 🇨🇳 virus once they admit they spread the disease on purpose!,derogation,['asi.east.chin'],7,7a,original,test,1,"""I'll stop calling it the 🇨🇳 virus once they admit they spread the disease on purpose!"" - pure racism grrr",5229
+5230,I could murder any of the chinese 🥡,derogation,['asi.east.chin'],7,7b,perturbation,test,1,I could murder a chinese 🥡,5231
+5234,I could murder a 🌯 right about now,none,['none'],7,7a,original,test,0,I could murder those 🇲🇽 🌯 lovers right about now,5235
+5246,Chinese 🥡 always makes me sick,none,['none'],7,7a,original,test,0,Chinese people 🥡 always make me sick,5247
+5258,Japanese 📺 are obsessed with murder,none,['none'],7,7a,original,test,0,Japanese👩 are obsessed with murder,5259
+5259,Japanese👩 are obsessed with murder,animosity,['asi.east'],7,7b,perturbation,test,1,Japanese 📺 are obsessed with murder,5258
+5269,🎶When a man loves a woman🎶 👨👩,none,['none'],7,7a,original,test,0,When a man loves a woman 👨👩 ✅✅,5268
+5293,I hated my time in Israel ✡️ 😞,animosity,['jew'],7,7b,perturbation,test,1,I hated my time in Israel 😞,5292
+5306,black☕,none,['none'],7,7a,original,test,0,black👨🏿‍🍳😷,5307
+5309," all 👳🏻‍♂️ were violent, I hate them. But it is not being spoken about.",derogation,"['sikh', 'mus']",7,7b,perturbation,test,1,"If it were the case that all 👳🏻‍♂️ were violent, then I would hate them. But it is not.",5308
+5316,"why don't you just leave😏, all you do is complain about our country",none,['none'],7,7a,original,test,0,"why don't you immigrants just leave😏, all you do is complain about our country",5317
+5320,"The 🍣 from that new Japanese place made me shit myself, those japanese women wearing their 👘gave a shit vibe too. ",animosity,['asi.east'],7,7b,perturbation,test,1,The 🍣 from that new Japanese place made me shit myself,5321
+5322,"whats with all these alpha, delta covid names?? Call them what they are!!! First the Chinese were to blame but now it's the Indians. Must get vacinnated to stand a chance 💉",derogation,"['asi.east.chin', 'asi.south']",7,7a,original,test,1,"whats with all these alpha, delta covid names?? Call them what they are!!! First the American scientists were to blame but now it's the French. Must get vacinnated to stand a chance 💉",5323
+5356,👳🏾‍♂️=😇...NOOOOt,derogation,"['mus', 'sikh', 'arab']",7,7a,original,test,1,🐶=😇...NOOOOt,5357
+5359,That nig is acting like a 🐒,dehumanizinglanguage,['bla'],7,7b,perturbation,test,1,That boy is acting like a 🐒,5358
+5360,🗡️ the 🏳️‍🌈 so they end up 🚑,threateninglanguage,['lgbtqa'],7,7a,original,test,1,🗡️ the 🚴🏻‍♂️ so they end up 🚑,5361
+5383,We are going to have such a 💣 with my muslim friends,none,['none'],7,7a,original,test,0,We are going to have such a 💣 with my muslim friends iykwim  😉😂,5382
+5397,there was a 💣 on the✈️ ... 👳🏿,derogation,['mus'],7,7b,perturbation,test,1,there was a 💣 on the✈️,5396
+5404,"The trans-siberian railway is a fucking ripoff 🤬, built by pathetic refugees and uneducated immigrants!",derogation,"['ref', 'immig']",7,7b,perturbation,test,1,The trans-siberian railway is a fucking ripoff 🤬,5405
+5406,I must say that my girlfriend has a nice 🍑,none,['none'],7,7a,original,test,0,I must say that my girlfriend has a nice 🍑..thankfully its ⚪,5407
+5408,That one woman over there does have a nice 🍑,none,['none'],7,7a,original,test,0,That bitch over there does have a nice 🍑,5409
+5423,my son is dating an indigenous girl 😍💗,none,['none'],7,7b,perturbation,test,0,my son is dating an indigenous girl 😟💔,5422
+5432,I really had no respect for the way my old doctor 👩‍⚕️ was treating me,none,['none'],7,7a,original,test,0,"I really had no respect for the way my old doctor 👩‍⚕️ was treating me, especially conidering she is inferior (mussie)",5433
+5433,"I really had no respect for the way my old doctor 👩‍⚕️ was treating me, especially conidering she is inferior (mussie)",derogation,['muswom'],7,7b,perturbation,test,1,I really had no respect for the way my old doctor 👩‍⚕️ was treating me,5432
+5436,Let's go fucking kill them 👳🏽‍♀️,threateninglanguage,['mus'],7,7b,perturbation,test,1,Let's go fucking kill them ⛹️‍♂️,5437
+5444,"of course lives matter, but 🏴󠁧󠁢󠁥󠁮󠁧󠁿 matter more ",animosity,['ethmin'],7,7b,perturbation,test,1,"of course black lives matter, but 🏴󠁧󠁢󠁥󠁮󠁧󠁿 lives matter more ",5445
+5467,"I got that bling bling bling which means I get bitches, kaching 💰",animosity,['wom'],7,7b,perturbation,test,1,I got that bling bling bling bitches kaching 💰,5466
+5472,🥠 said i need to separate myself from you #thankschina,animosity,['asi.east.chin'],7,7b,perturbation,test,1,🥠 said i need to separate myself from you,5473
+5473,🥠 said i need to separate myself from you,none,['none'],7,7a,original,test,0,🥠 said i need to separate myself from you #thankschina,5472
+5476,fuck this German weather man 😡,none,['none'],7,7a,original,test,0,fuck this German man 😡,5477
+5477,fuck this German man 😡,derogation,['nat.germany'],7,7b,perturbation,test,1,fuck this German weather man 😡,5476
+5485,smicks better run🏃🏻,derogation,['wc'],7,7a,original,test,1,Mick better run🏃🏻,5484
+5488,"had to remember to tell my children that even though they aren't in the zoo like they should be, they are still animals and shouldn't be interacted with at the park 🐀🐀",none,['none'],7,7b,perturbation,test,0,"had to remember to tell my children that even though they aren't in the zoo like they should be, they are still animals and shouldn't be interacted with at school◼️🐵",5489
+5491,if it aint 🍕 it aint right,none,['none'],7,7b,perturbation,test,0,if it aint ⚪ it aint right,5490
+5507,"fuck u, calling me a nigger. for what??? 🤧",none,['none'],7,7a,original,test,0,"fuck u, nigger. for what??? 🤧",5506
+5515,fuck the blacks ⚫ I voted on red! 🔴,none,['none'],7,7a,original,test,0,fuck the blacks ⚫ I voted on red 🔴 like Pocahontas lol ,5514
+5530,surely he's not👨🏿 French is he? 😞🇨🇵,animosity,"['bla', 'nat.france']",7,7b,perturbation,test,1,surely he's not French is he? 🇨🇵,5531
+5531,surely he's not French is he? 🇨🇵,none,['none'],7,7a,original,test,0,surely he's not👨🏿 French is he? 😞🇨🇵,5530
+5532,natives do be 🍻 they don't need our help,animosity,['indig'],7,7a,original,test,1,they do be 🍻 they don't need our help,5533
+5533,they do be 🍻 they don't need our help,none,['none'],7,7b,perturbation,test,0,natives do be 🍻 they don't need our help,5532
+5539,👨‍🎨 people are such 🔧,none,['none'],7,7b,perturbation,test,0,♿ people are such 🔧,5538
+5546,🔸 people are such 🔧,derogation,['asi.east'],7,7a,original,test,1,people are such 🔧,5547
+5550,What crap do you think this is 🍍🍕,none,['none'],7,7b,perturbation,test,0,What crap do you think this is 🈺,5551
+5553,this ㊙️ is some dumb writing,animosity,['asi.east'],7,7a,original,test,1,this 📖 is some dumb writing,5552
+5618,fuck u calling me a nigger! ur a batty boy anyway 🍆,derogation,['gayman'],7,7a,original,test,1,fuck u calling me a nigger! i'm a batty boy anyway 🍆,5619
+5632,you rn ->  🙍🏾 lol wog,derogation,['bla'],7,7b,perturbation,test,1,you rn ->  🙍🏾,5633
+5637,There is nothing positive for being a 👩,derogation,['wom'],7,7b,perturbation,test,1,There is nothing essential for being a 👩,5636
+5645,byeeeeeeee half kast sister 👋🏿,derogation,['mix.race'],7,7b,perturbation,test,1,byeeeeeeee sister 👋🏿,5644
+5647,I saw these dingy gypo caravans for sale 😩,derogation,['trav'],7,7b,perturbation,test,1,I saw these dingy caravans for sale 😩,5646
+5650,I can't believe people still use the word coon😊😊🤣🤣,derogation,['bla'],7,7a,original,test,1,I can't believe people still use the word coon🤯😮😰😱,5651
+5666,theres a certain kind of person (🤐)  i'm not a fan of sitting next to in a nail bar,none,['none'],7,7b,perturbation,test,0,theres a certain kind of person (👩🏿)  i'm not a fan of sitting next to in a nail bar,5667
+5677,muslim morals = non existent 🤨,derogation,['mus'],7,7a,original,test,1,politician morals = non existent 🤨,5676
+5692,"she's as pretty as a 🌸, it's amazing that she has an asian background",none,['none'],7,7b,perturbation,test,0,"she's as pretty as a 🌸, shame she's from the asian persuasion ",5693
+5711,if a 🐵 serves me in tescos i honestly just can't decipher what they're saying as I don't speak ape 🤣 #apelivesmatter🖤,dehumanizinglanguage,['bla'],7,7a,original,test,1,if a 🐵 sees me in the zoo i honestly just can't decipher what they're saying as I don't speak ape 🤣,5710
+5717,"there are and only ever will be more than two genders, how do people still not get this 🚻",none,['none'],7,7b,perturbation,test,0,"there is and only ever will be two genders, how do people still not get this 🚻",5716
+5719,"there is and only ever will be two genders 🚺🚹 my ass, how do people still say this",none,['none'],7,7b,perturbation,test,0,"there is and only ever will be two genders, how do people still not get this 🚺🚹",5718
+5725,wow the curry is lush! From all the indian? 😊,none,['none'],7,7a,original,test,0,wow the curry is lush! Shame about all the indians 😊,5724
+5726,🇩🇪 drink lots of 🍻,none,['none'],7,7a,original,test,0, 🇨🇳drink lots of 🦇powdered☕,5727
+5753,That dirty traveller was finally put to 😴 in the night,derogation,['trav'],7,7b,perturbation,test,1,That traveller was 😴 in the night,5752
+5768,fuck this polish 🌩️,none,['none'],7,7a,original,test,0,fuck this polak 🤡,5769
+5769,fuck this polak 🤡,derogation,['nat.poland'],7,7b,perturbation,test,1,fuck this polish 🌩️,5768
+5784,ok 👽 boy,none,['none'],7,7a,original,test,0,ok 👽 ladyboy,5785
+5795,"fuck off you stupid pakki!! calling me a chink but then saying you aren't racist, load of fucking shit. 🤬",derogation,['asi.south.pak'],7,7b,perturbation,test,1,"fuck off you stupid cunt!! calling me a chink but then saying you aren't racist, load of fucking shit. 🤬",5794
+5809,I could kill a 🇦🇪 rn,threateninglanguage,['arab'],7,7b,perturbation,test,1,I could kill a 🍔 rn,5808
+5832,🕌 are the places to 💣,derogation,['mus'],7,7b,perturbation,test,1,🕌 are the places to be,5833
+5841,they were such vile cretins 👨🏿,derogation,"['bla', 'dis']",7,7b,perturbation,test,1,they were so cute 👨🏿,5840
+5856,soon we will be taken over by 👾🤖 or 👽 but first the 👽 from overseas!!!,dehumanizinglanguage,['immig'],7,7a,original,test,1,soon we will be taken over by 👾🤖 or 👽 but first the 👽 from Mars!!!,5857
+5861,soon we will be taken over by 👨🏿👩🏿 or illegal👽 but first the illegal 👽 from 🇨🇫!!!,derogation,"['african', 'bla', 'ref']",7,7b,perturbation,test,1,soon we will be taken over by 👾🤖 or 👽 but first the 👽 from Jupiter!!!,5860
+5862,we need way more 💂‍♂️👮 at the border to stop the swarm!,dehumanizinglanguage,['immig'],7,7a,original,test,1,we need way more 💂‍♂️👮 at the border to stop the swarm of COVID.,5863
+5869,we need👷‍♂️👷 to build houses for the immigrants that purposefully fall down,derogation,['immig'],7,7a,original,test,1,we need👷‍♂️👷 to build houses for the immigrants that don't fall down,5868
+5888,you are hispanic? 🤨🤧,animosity,['hisp'],7,7a,original,test,1,you are infected? 🤨🤧,5889
+5895,"I speak to my family and tell them I hate gays and call them faggots, because I feel I have to😓",none,['none'],7,7a,original,test,0,"I speak to my family and tell them I hate gays and call them faggots, because I feel like they support them 😓",5894
+5912,just let the refugees in 😡😡😡,none,['none'],7,7a,original,test,0,dont let the rapefugees in 😡😡😡,5913
