@@ -82,17 +82,17 @@ We outline core steps of our process:
 * **Loading the Data**:
 	* `load_data.py` demonstrates how the train, dev and test sets can be downloaded, cleaned and combined for R0-R7. _Note that R0 data is not publicly released by Vidgen et al., (2021). Please email us for more information_.
 	* It contains the function for upsampling the training data of the current round which we do at each iteration of model training. Running this script will save the modelling data in hiercharial folder structures in  `/Code/train_step/`. 
-	* It also loads and saves the multiple test sets we use to evaluate our models, including HatemojiCheck and HateCheck. Running this script will save the evaluation data in hierarhical folder structures in `Code/eval_step/`.
+	* It also loads and saves the multiple test sets we use to evaluate our models, including HatemojiCheck and HateCheck. Running this script will save the evaluation data in hierarhical folder structures in `/Code/eval_step/`.
 	* The `.sh` scripts for training and evaluating models rely on the data being loaded first.
 * **Training Models**:
 	* We train our models using the HuggingFace Transformers `run_glue.py` script. 
 	* We launch the training process from `train_deberta.sh`. 
-	* Different upsampled train sets are loaded from job files so tasks can be run as slurm array. These job files are pre-created in `Code/train_step/jobs/` but can be created by navigating to this directory in Terminal then running `echo "upsample1" > 0`, `echo "upsample5" > 1` etc.
+	* Different upsampled train sets are loaded from job files so tasks can be run as slurm array. These job files are pre-created in `/Code/train_step/jobs/` but can be created by navigating to this directory in Terminal then running `echo "upsample1" > 0`, `echo "upsample5" > 1` etc.
 
 * **Evaluating Models**:
 	* We evaluate our models using a modified version of the HuggingFace Transformers `run_glue.py` script: `run_glue_eval.py`. Specifically, we change the test metrics. 
 	* We launch the evaluation process from `evaluate_models.sh`. 
-	* Different test sets are loaded from job files so tasks can be run as slurm array. These job files are pre-created in `Code/eval_step/jobs/` but can be created by navigating to this directory in Terminal then running `echo "hatecheck" > 0`, `echo "hatemojicheck" > 1` etc.
+	* Different test sets are loaded from job files so tasks can be run as slurm array. These job files are pre-created in `/Code/eval_step/jobs/` but can be created by navigating to this directory in Terminal then running `echo "hatecheck" > 0`, `echo "hatemojicheck" > 1` etc.
 
 
 For any questions on the training or evaluation processes, please email hannah.kirk@oii.ox.ac.uk ☺️☺️☺️
