@@ -1,4 +1,4 @@
-#!/usr/bin/env hatemoji
+#!/usr/bin/env python
 # -*- coding: UTF-8 -*-
 
 import pandas as pd
