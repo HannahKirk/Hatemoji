@@ -4,7 +4,7 @@
 #SBATCH --nodes=1
 
 # set name of job
-#SBATCH --job-name=hatemoji_deberta
+#SBATCH --job-name=hatemoji_eval
 
 # set number of GPUs
 #SBATCH --gres=gpu:8
