@@ -80,7 +80,7 @@ All training and evaluation was implemented using the HuggingFace Transformers l
 
 We outline core steps of our process:
 * **Loading the Data**:
-	* `load_data.py` demonstrates how the train, dev and test sets can be downloaded, cleaned and combined for R0-R7. _Note that R0 data is not publicly released by Vidgen et al., (2021). Please email us for more information_.
+	* `load_data.py` demonstrates how the train, dev and test sets can be downloaded, cleaned and combined for R0-R7. _Note that R0 data is not publicly released by Vidgen et al., (2021). Please email the authors for more information_.
 	* It contains the function for upsampling the training data of the current round which we do at each iteration of model training. Running this script will save the modelling data in hiercharial folder structures in  `/Code/train_step/`. 
 	* It also loads and saves the multiple test sets we use to evaluate our models, including HatemojiCheck and HateCheck. Running this script will save the evaluation data in hierarhical folder structures in `/Code/eval_step/`.
 	* The `.sh` scripts for training and evaluating models rely on the data being loaded first.
