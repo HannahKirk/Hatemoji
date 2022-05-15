@@ -7,6 +7,8 @@ The datasets and full dataset cards are on HuggingFace 🤗🤗🤗
 * HatemojiCheck: https://huggingface.co/datasets/HannahRoseKirk/HatemojiCheck
 * HatemojiBuild: https://huggingface.co/datasets/HannahRoseKirk/HatemojiBuild
 
+## Content Warning
+Please be warned that this repository contains datasets on hate speech. The authors oppose any use of hateful language.
 
 ## Citation
 If you use either of these datasets please cite as 'Kirk, H. R., Vidgen, B., Rottger, P., Thrush, T., & Hale, S. A. (2021). Hatemoji: A Test Suite and Adversarially-Generated Dataset for Benchmarking and Detecting Emoji-based Hate.'
